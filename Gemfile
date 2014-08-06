@@ -4,3 +4,6 @@ gem 'middleman', '~> 3.3.4'
 
 # Live-reloading plugin
 gem 'middleman-livereload', '~> 3.3.4'
+
+gem 'middleman-s3_sync'
+gem 'dotenv'
