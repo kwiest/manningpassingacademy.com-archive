@@ -5,11 +5,16 @@
     <!-- Always force latest IE rendering engine or request Chrome Frame -->
     <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
     <meta name="viewport" content="device-width, initial-scale=1">
+    <meta name="description" content="Manning Passing Academy. The premier offensive football skills camp in the nation for QBs, RBs, WRs, and TEs.">
+    <meta name="keywors" content="Manning Passing Academy, MPA, Peyton Manning football camp, Eli Manning football camp">
+    <meta name="author" content="Kyle Wiest">
     
     <title><%= current_page.data.title || "Manning Passing Academy" %></title>
     
     <!-- Twitter Bootstrap -->
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+
+    <%= stylesheet_link_tag 'all' %>
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -19,9 +24,49 @@
   </head>
   
   <body>
-    <%= yield %>
+    <header class="navbar navbar-static-top" id="top" role="banner">
+      <div class="container">
+        <div class="navbar-header">
+          <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="../" class="navbar-brand">Manning Passing Academy</a>
+        </div>
+        <nav class="collapse navbar-collapse" role="navigtaion">
+          <ul class="nav navbar-nav">
+            <li>
+              <a href="../about">About</a>
+            </li>
+            <li>
+              <a href="../sign-up">Sign up</a>
+            </li>
+            <li>
+              <a href="../prepare">Prepare</a>
+            </li>
+            <li>
+              <a href="../the-camp">The Camp</a>
+            </li>
+            <li>
+              <a href="../extras">Extras</a>
+            </li>
+            <li>
+              <a href="../contact-us">Contact us</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main id="content" role="main">
+      <%= yield %>
+    </main>
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="//use.typekit.net/jet0pah.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
   </body>
 </html>
