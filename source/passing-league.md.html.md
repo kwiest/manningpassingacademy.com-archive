@@ -1,0 +1,17 @@
+Passing League
+==============
+
+All of the players in camp are broken up into teams of 7 for contests of
+7-on-7. Teams and groups that come together will be afforded the
+opportunity to play together. For those who come individually… you will
+be grouped with campers of the same grade. Everyone plays, and everyone
+has fun.
+
+*Note: Some campers would prefer to play at a higher grade-level than
+the one they are in. The MPA cannot assess the skill level of a player
+relative to campers of a different grade-level during camp. Therefore, a
+camper will NOT be allowed to move up. However, if a camper feels that
+they should be in a lower level, due to ability, experience, or because
+younger teammates are in attendance, we will allow it.*
+
+![Passing League](/media/4e80deb964b44-passing_league.jpg)

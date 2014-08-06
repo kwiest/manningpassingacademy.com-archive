@@ -1,0 +1,40 @@
+Preparing for Camp
+==================
+
+-   Make sure that all of your information (name, grade, email address,
+    contact numbers, etc.) is correct on the
+    [CONFIRMATION](https://campregistrationsystems.com/manning-passing-academy/2014-manning-passing-academy/confirmation)
+    page so that you are grouped correctly during drills and 7 on 7.
+-   All balances must be paid in full by May 15 or else you may incur a
+    $100 late fee or be dropped from the rolls. No exceptions.
+-   All overnight campers must provide their own bedding; sleeping bags
+    are recommended. You must also provide your own towels, wash cloths,
+    and any other toiletries you need. Go to [ROOM AND
+    BOARD](/room-and-board).
+-   You do NOT need football equipment but we recommend a mouth piece
+    for all campers. Grass-cleated shoes are highly recommended to
+    tennis shoes but you should bring both in case in climate weather
+    forces us inside. See [EQUIPMENT](/equipment).
+-   We recommend that you do NOT bring anything of value (jewelry,
+    radios, substantial amounts of cash, TVs, etc.). We cannot vouch on
+    the honesty for everyone who attends camp. Everyone must be vigilant
+    regarding security and safety. That means always lock your door and
+    put your name on everything.
+-   If you need to utilize the airport shuttle transportation we offer
+    to/from camp make sure you secure reservations early so you have a
+    seat. Go to [AIRPORT SHUTTLE](/airport-shuttle) in the web site.
+-   If you are a DAY CAMPER (i.e. commuter) and you are looking for a
+    hotel in the camp area you should visit our [LOCAL
+    ACCOMMODATIONS](/local-accommodations) link which will connect you
+    with the Thibodaux Chamber of Commerce. Sorry we cannot coordinate
+    housing for Day Campers.
+-   If you are travelling on your own to Nicholls State and need
+    directions to camp go to our [DIRECTIONS](/directions) link and it
+    will give you GPS coordinates.
+-   The [CHECK-IN PROCESS](/check-in-process) for all campers (Overnight
+    and Day) is the same. We commence check-in precisely at 1pm on
+    Thursday at Stopher Gym. There is no need to show up early because
+    we will never start check-in any earlier than 1:00pm.
+-   If you have medical needs ([MEDICAL
+    INFORMATION](/medical-information)) be sure to communicate them with
+    our camp administration so that they can direct you properly.

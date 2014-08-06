@@ -1,0 +1,17 @@
+Day Campers
+===========
+
+Day Campers are treated the same as Overnight Campers with a few minor
+exceptions:
+
+-   Day campers are provided two meals per day (lunch and dinner).
+-   A locker room (for showering purposes only) is provided after
+    practice sessions.
+-   There are no secured lockers, but campers may leave their bags in
+    the camp office in between practices. However, this is simply an
+    area to store their belongings, and*the MPA is not responsible for
+    lost or stolen items.*
+-   Day campers are welcome to stay throughout the evening activities
+    right up until they are done (approximately 10:00pm).
+
+![Day Campers](/media/4e80defea4ad6-day_campers.jpg)

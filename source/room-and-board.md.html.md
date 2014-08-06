@@ -1,0 +1,39 @@
+Room and Board
+==============
+
+Housing
+-------
+
+All overnight campers will stay in one of Nicholls State University's
+fine residence halls. Bedding is NOT furnished. As such, overnight
+campers must provide their own bedding (sleeping bags are suggested).
+All rooms are air-conditioned and come with beds and mattresses.
+However, all campers will need to provide their own towels, wash cloths
+and any other toiletry articles (soap, shampoo, toothpaste, etc.) that
+they may need. The MPA reseves the right to make all [roommate
+assignments.](/roommates)
+
+Although there are obviously no accommodations for commuter campers… a
+shower facility will be made available after each practice session.
+Towels and soap are the responsibility of the campers.
+
+Dining
+------
+
+Both Overnight campers and Day campers will eat at Nicholls State’s
+outstanding dining facility. Overnight campers receive three (3) meals a
+day (breakfast, lunch and dinner) and Day campers get two (2) meals a
+day (lunch and dinner).
+
+See the [daily schedule](/daily-schedule) for specific times.
+
+Day Campers from out of town - find information about
+[accommodations](/local-accommodations).
+
+McDonalds will be sponsoring a meal for all campers Thursday night after
+registration.
+
+Campers will be able to purchase snack foods and pizza during their free
+time in the evening.
+
+![Room and Board](/media/4e80de8036112-room_and_board.jpg)
