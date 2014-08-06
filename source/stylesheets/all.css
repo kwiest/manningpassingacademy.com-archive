@@ -43,4 +43,12 @@
     1px -1px 4px #fff,
     -1px 1px 4px #fff,
     1px 1px 4px #fff;
+  margin-top: -55px;
+  z-index: 1;
+}
+
+#secondary-header img {
+  margin-right: auto;
+  margin-left: auto;
+  z-index: 0;
 }
