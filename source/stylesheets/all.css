@@ -19,6 +19,14 @@ body {
   background-repeat: repeat-x;
 }
 
+.navbar-toggle, .navbar-toggle:hover {
+  background-color: #f9f9f9;
+}
+
+.navbar-toggle .icon-bar {
+  background-color: rgb(66, 139, 202);
+}
+
 #secondary-header {
   position: relative;
   padding: 40px 0;
