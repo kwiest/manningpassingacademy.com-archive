@@ -1,13 +1,12 @@
 Executive Staff
 ===============
 
-![image](/media/4e80ea3e5f191-executive_staff-archie.jpg)
+<div class="pull-left">
+  <img src="/images/executive-staff-archie.jpg" class="img-responsive img-thumbnail">
+</div>
 
-Archie Manning
---------------
-
-Executive Director
-------------------
+Archie Manning - Executive Director
+-----------------------------------
 
 Leadership, dedication and commitment have enabled Archie Manning to
 succeed both on and off the football field.
@@ -57,15 +56,12 @@ Archie and his wife Olivia (a former Homecoming Queen at Ole Miss)
 reside in New Orleans are the proud grandparents of six grandchildren by
 Cooper, Peyton and Eli.
 
-[Top](#top)
+<div class="pull-left">
+  <img src="/images/executive-staff-cooper.jpg" class="img-responsive img-thumbnail">
+</div>
 
-![image](/media/4e80ea51606f2-executive_staff-cooper.jpg)
-
-Cooper Manning
---------------
-
-Senior Associate Director
--------------------------
+Cooper Manning - Senior Associate Director
+------------------------------------------
 
 Cooper was a two-time All-State wide receiver at Isidore Newman School
 in New Orleans and played in the Louisiana High School All-Star Game as
@@ -101,15 +97,12 @@ sons, Arch and Heid.
 Cooper remains the most handsome Manning and has no plans of losing that
 title.
 
-[Top](#top)
+<div class="pull-left">
+  <img src="/images/executive-staff-peyton.jpg" class="img-responsive img-thumbnail">
+</div>
 
-![image](/media/5062575ecd700-peyton-bio.jpg)
-
-Peyton Manning
---------------
-
-Senior Associate Director
--------------------------
+Peyton Manning - Senior Associate Director
+------------------------------------------
 
 Peyton is widely regarded as one of the best QBs to have ever played the
 game, selected with the first overall pick in the 1998 NFL Draft by the
@@ -159,15 +152,12 @@ All-District pick at QB.
 Peyton and his wife Ashley reside in Indianapolis, Indiana and are the
 proud parents of twins Mosley and Marshall.
 
-[Top](#top)
+<div class="pull-left">
+  <img src="/images/executive-staff-peyton.jpg" class="img-responsive img-thumbnail">
+</div>
 
-![image](/media/4e80ea71f3499-executive_staff-eli.jpg)
-
-Eli Manning
------------
-
-Senior Associate Director
--------------------------
+Eli Manning - Senior Associate Director
+---------------------------------------
 
 Following in his brother’s footsteps Eli was the first pick in the 2004
 NFL Draft by the NY Giants.
@@ -211,15 +201,12 @@ School and was an All-American, All-State and All-District pick at QB.
 Eli and his wife Abby reside in Hoboken, New Jersey and are the proud
 parents of newborn daughter Ava.
 
-[Top](#top)
+<div class="pull-left">
+  <img src="/images/executive-staff-buddy.jpg" class="img-responsive img-thumbnail">
+</div>
 
-![image](/media/5068ca7702dc0-buddy-teevens-bio.jpg)
-
-Buddy Teevens
--------------
-
-Associate Director
-------------------
+Buddy Teevens - Associate Director
+----------------------------------
 
 Buddy has been an integral part of the MPA since its inception. He is
 the head football coach at Dartmouth College in Hanover, New Hampshire.
@@ -241,15 +228,12 @@ on-field operation and coaching staff. A native of Pembroke, Mass.
 Teevens and his wife Kirsten, reside in Hanover, New Hampshire, have two
 children, Lindsay, and Eugene IV.
 
-[Top](#top)
+<div class="pull-left">
+  <img src="/images/executive-staff-hawk.jpg" class="img-responsive img-thumbnail">
+</div>
 
-![image](/media/4f104ae799a3f-jeff-hawkins.jpg)
-
-Jeff "Hawk" Hawkins
--------------------
-
-Associate Director
-------------------
+Jeff "Hawk" Hawkins - Associate Director
+----------------------------------------
 
 Hawk is entering his 17th year as Associate Camp Director. He is
 responsible for all aspects of administration. He is in his 12th season
@@ -270,14 +254,11 @@ personally has invested more than twenty years in as a volunteer. Jeff,
 a native of Pembroke, Mass., and his wife Amy reside in Eugene, Oregon
 with their daughter Gabrielle.
 
-[Top](#top)
+<div class="pull-left">
+  <img src="/images/executive-staff-kyle.jpg" class="img-responsive img-thumbnail">
+</div>
 
-![image](/media/4f104affcb61e-kyle-wiest.jpg)
-
-Kyle Wiest
-----------
-
-Director of Camp Administration
+Kyle Wiest = Assistant Director
 -------------------------------
 
 Kyle, is entering his 12th year at the MPA and serves as the director of
@@ -287,13 +268,8 @@ administration and information technology. Wiest, a Masters recipient
 from the University of Oregon is the Director of Football Operations at
 the University of Oregon and resides in Eugene.
 
-[Top](#top)
-
-Tom Hart
---------
-
-Director of Camp Security
--------------------------
+Tom Hart - Director of Camp Security
+------------------------------------
 
 Tom Hart oversees all aspects of the MPA's security both for coaches, as
 well as for campers. He is a retired police detective and SWAT Team
@@ -305,15 +281,12 @@ with a degree in physical education. He currently serves as the
 Professional Development Coordinator at the University of Oregon
 athletic department.
 
-[Top](#top)
+<div class="pull-left">
+  <img src="/images/executive-staff-greg.jpg" class="img-responsive img-thumbnail">
+</div>
 
-![image](/media/4f104ac0adb0c-greg-blackwell.jpg)
-
-Greg Blackwell
---------------
-
-Director of Public Relations
-----------------------------
+Greg Blackwell - Director of Public Relations
+---------------------------------------------
 
 Greg will be entering his 16th year with the camp and his 14th year in
 the role of Director of Public Relations. He is currently the Director
@@ -329,15 +302,12 @@ in Communications from Memphis State University.
 He and his wife Lydia reside in Fort Worth, Texas with their son
 Christian.
 
-[Top](#top)
+<div class="pull-left">
+  <img src="/images/executive-staff-andy.jpg" class="img-responsive img-thumbnail">
+</div>
 
-![image](/media/4f104b2419a6e-andy-solari.jpg)
-
-Andy Solari
------------
-
-Director of Communications
---------------------------
+Andy Solari - Director of Communications
+----------------------------------------
 
 Andy is entering his 13th year at the MPA and has served in virtually
 every capacity. Currently he oversees all communications and assists in
@@ -353,15 +323,12 @@ Solari served in the US Coast Guard and is a native of Pembroke, MA. He
 currently resides in Marshfield, MA with his wife Beth, a registered
 nurse, and their three children: Jessica, Emily, and Tony.
 
-[Top](#top)
+<div class="pull-left">
+  <img src="/images/executive-staff-ed.jpg" class="img-responsive img-thumbnail">
+</div>
 
-![image](/media/4e80ea81052b4-executive_staff-ed.jpg)
-
-Ed Nishioka
------------
-
-Director of Marketing and Promotions
-------------------------------------
+Ed Nishioka - Director of Marketing and Promotions
+--------------------------------------------------
 
 Ed is entering in his 8th year with the Manning Passing Academy. He
 handles local marketing and video production for the camp.
@@ -391,27 +358,19 @@ He and wife, Rae, reside in Honolulu with their two Boxers (Mr. Lex and
 Princess) and English Bulldog (Lady). Ed's daughter, Sarah, is a student
 at the University of Nevada Las Vegas.
 
-[Top](#top)
+<div class="pull-left">
+  <img src="/images/executive-staff-jimmy.jpg" class="img-responsive img-thumbnail">
+</div>
 
-![image](/media/50624f1288eca-jimmy-marinelli-bio.jpg)
-
-Jim Marinelli
--------------
-
-Director of Operations
-----------------------
+Jim Marinelli - Director of Operations
+--------------------------------------
 
 Entering his 10th year associated with the MPA, Jim oversees all aspects
 of logistical operations of the camp including set-up and break-down and
 everything in between.
 
-[Top](#top)
-
-Rick Solari
------------
-
-Director of Merchandising
--------------------------
+Rick Solari - Director of Merchandising
+---------------------------------------
 
 Information technology professional with 32 years of experience managing
 the development and implementation of technology solutions for the
@@ -420,5 +379,3 @@ financial industry.
 Rick is currently serving as a Systems Consultant and Vice President for
 the Wealth Management Services division of the State Street Bank and
 Trust Company in Boston, MA.
-
-[Top](#top)
