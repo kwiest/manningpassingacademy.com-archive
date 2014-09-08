@@ -276,7 +276,7 @@ with their daughter Gabrielle.
   <img src="/images/executive-staff-kyle.jpg" class="img-responsive img-thumbnail">
 </div>
 
-Kyle Wiest = Assistant Director
+Kyle Wiest - Assistant Director
 -------------------------------
 
 Kyle, is entering his 12th year at the MPA and serves as the director of
