@@ -6,6 +6,6 @@ meeting rooms, and dining facilities that Nicholls State has to offer.
 Everything is within a close walking distance (5 minutes) of each other,
 and everything is first-class.
 
-Maps of the Nicholls State campus can be found [here](/campus-map).
+Maps of the Nicholls State campus can be found [here](/page/campus-map).
 
-![Facilities](/media/4e80dec99da84-facilities.jpg)
+![Facilities](/images/facilities.jpg)

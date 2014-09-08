@@ -9,9 +9,8 @@ past and present coaches and players from the NFL, college, and high
 school ranks.
 
 The on-field (coaching) and off-field (administrative) operations and
-handled respectively by [Dartmouth
-College’s](http://athletics.dartmouth.edu/) head football coach Buddy
-Teevens and the [University of Oregon’s](http://www.goducks.com/)
+handled respectively by [Dartmouth College's](http://athletics.dartmouth.edu/)
+head football coach Buddy Teevens and the [University of Oregon's](http://www.goducks.com/)
 Director of Football Operations Jeff Hawkins. Together they boast more
 than 70 years of successful camp experiences between them.
 
@@ -23,7 +22,9 @@ LSU, Louisiana Tech, Mississippi State, Nicholls State, North Carolina
 State, Ole Miss, Oregon, Oregon State, South Carolina, Southern Miss,
 Stanford, Tennessee, Texas, Tulane, ULL and more.
 
-##### \*\*Due to the fact that there is so much movement in the football coaching profession, we cannot give a full list of the coaching staff until late June. Rest assured that, as always, they will all be of the highest quality coaches available.
+*Due to the fact that there is so much movement in the football coaching
+profession, we cannot give a full list of the coaching staff until late
+June. Rest assured that, as always, they will all be of the highest quality
+coaches available.*
 
-![Coaching Staff
-Emeritus](/media/4e83468606cf9-sunday_chapel_and_mass.jpg)
+![Coaching Staff Emeritus](/images/coaching-staff-emeritus.jpg)

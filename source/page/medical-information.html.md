@@ -16,4 +16,4 @@ of all of our campers. The university’s state-of-the-art training
 facilities are available to treat all minor injuries and illnesses.
 Local hospitals can treat any emergency.
 
-![Medical Information](/media/4e80dfe2e271a-medical_information.jpg)
+![Medical Information](/images/medical-information.jpg)

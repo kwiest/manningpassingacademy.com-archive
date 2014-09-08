@@ -16,4 +16,4 @@ However, if a camper feels that they should be in a lower level, due to
 ability, or because younger teammates are in attendance, we will allow
 it.*
 
-![Eligibility](/media/4e80e03ca9768-eligibility.jpg)
+![Eligibility](/images/eligibility.jpg)

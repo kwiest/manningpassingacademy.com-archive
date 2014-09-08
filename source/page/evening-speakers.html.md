@@ -30,4 +30,4 @@ All evening speaker sessions are provided to the campers only.
 Absolutely no parents or adults allowed!
 ----------------------------------------
 
-![Evening Speakers](/media/4e80dedacb5f4-evening_speakers.jpg)
+![Evening Speakers](/images/evening-speakers.jpg)

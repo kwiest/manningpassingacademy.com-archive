@@ -1,14 +1,13 @@
 Privacy Policy
 ==============
 
-This is the web site of **Manning Passing Academy**.\
- Our postal address is\
- **PO Box 10161\
- Eugene, OR 97440**
+This is the web site of **Manning Passing Academy**.
 
-We can be reached via email at
-[info@manningpassingacademy.com](mailto:info@manningpassingacademy.com)\
- or you can reach us by telephone at (541) 359-2343
+PO Box 10161  
+Eugene, OR 97440
+
+We can be reached via email at [info@manningpassingacademy.com](mailto:info@manningpassingacademy.com)
+or you can reach us by telephone at (541) 359-2343
 
 For each visitor to our Web page, our Web server automatically
 recognizes only the consumer's domain name, but not the email address

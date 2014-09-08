@@ -10,8 +10,7 @@ campers must provide their own bedding (sleeping bags are suggested).
 All rooms are air-conditioned and come with beds and mattresses.
 However, all campers will need to provide their own towels, wash cloths
 and any other toiletry articles (soap, shampoo, toothpaste, etc.) that
-they may need. The MPA reseves the right to make all [roommate
-assignments.](/roommates)
+they may need. The MPA reseves the right to make all [roommate assignments.](/page/roommates)
 
 Although there are obviously no accommodations for commuter campers… a
 shower facility will be made available after each practice session.
@@ -25,10 +24,10 @@ outstanding dining facility. Overnight campers receive three (3) meals a
 day (breakfast, lunch and dinner) and Day campers get two (2) meals a
 day (lunch and dinner).
 
-See the [daily schedule](/daily-schedule) for specific times.
+See the [daily schedule](/page/daily-schedule) for specific times.
 
 Day Campers from out of town - find information about
-[accommodations](/local-accommodations).
+[accommodations](/page/local-accommodations).
 
 McDonalds will be sponsoring a meal for all campers Thursday night after
 registration.
@@ -36,4 +35,4 @@ registration.
 Campers will be able to purchase snack foods and pizza during their free
 time in the evening.
 
-![Room and Board](/media/4e80de8036112-room_and_board.jpg)
+![Room and Board](/images/room-and-board.jpg)

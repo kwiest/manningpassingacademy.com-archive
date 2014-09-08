@@ -5,8 +5,7 @@ Off-Campus Accommodations
 -------------------------
 
 There are ample accommodations in the local community that can be
-secured by visiting the [Bayou Region
-Accommodations](http://travel.ian.com/hotel/searchresults?currencyCode=USD&userCity=null,null,null&additionalDataString=vrBookingSource%7Cnull&locale=en_US&searchParam=3CE44484-F4A4-44D2-8F2A-FA2896A15806&searchType=DESTINATION&cid=268128)
+secured by visiting the [Bayou Region Accommodations](http://travel.ian.com/hotel/searchresults?currencyCode=USD&userCity=null,null,null&additionalDataString=vrBookingSource%7Cnull&locale=en_US&searchParam=3CE44484-F4A4-44D2-8F2A-FA2896A15806&searchType=DESTINATION&cid=268128)
 page.
 
 Sorry, but due to insurance issues, we are unable to provide on-campus
@@ -17,4 +16,4 @@ We do welcome all spectators during the practice sessions, but for legal
 and safety reasons, we ask that you refrain from entering the dining,
 common, and sleeping areas.
 
-![Local Accommodations](/media/4e80df531ebf4-local_accommodations.jpg)
+![Local Accommodations](/images/local-accommodations.jpg)

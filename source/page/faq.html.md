@@ -1,154 +1,130 @@
 Frequently Asked Questions
 ==========================
 
-### Q. What is the best method to communicate with the camp to get my questions answered?
-
-A. First and foremost … read the FAQs. Over the years we’ve accumulated
+**Q.** What is the best method to communicate with the camp to get my questions answered?  
+**A.** First and foremost … read the FAQs. Over the years we’ve accumulated
 the most asked questions. Secondly use email. You will get the fastest
 response from email versus leaving a message on voicemail. Typically
 emails will get a response within 12 hours or less.
 
-### Q. Can I choose my roommate?
-
-A. No. The MPA will choose all roommates for all campers. Campers will
+**Q.** Can I choose my roommate?  
+**A.** No. The MPA will choose all roommates for all campers. Campers will
 be paired with others of similar age. We find that this allows for
 campers to make more friends and it assists us with discipline and
-structure in the dormitories. To be fair … there are no exceptions.
+structure in the dormitories. To be fair, there are no exceptions.
 
-### Q. My teammate(s) are also coming to camp; can we be on the same 7-on-7 team?
-
-A. Yes! We will always do our best to group players coming from the same
+**Q.** My teammate(s) are also coming to camp; can we be on the same 7-on-7 team?  
+**A.** Yes! We will always do our best to group players coming from the same
 school together. However, our teams are also determined by grade, and
 under no circumstances will a player move up a level. If players would
 like to move down, we will allow it.
 
-### Q. Do I need to bring my own football?
-
-A. Not if you register online. Spalding has been generous enough to
+**Q.** Do I need to bring my own football?  
+**A.** Not if you register online. Spalding has been generous enough to
 provide a TF-SB1 football for each camper (a $100 value).\
  You can still bring your own football if you prefer. It is important
 that you are comfortable with your grip on the ball.
 
-### Q. I’m an overnight camper, what do I need to bring with me?
-
-A. All overnight campers must provide their own bedding; sleeping bags
+**Q.** I’m an overnight camper, what do I need to bring with me?  
+**A.** All overnight campers must provide their own bedding; sleeping bags
 are recommended. You must also provide your own towels, wash cloths, and
 any other toiletries you need.
 
-### Q. I’m an overnight camper, what should I NOT bring with me?
-
-A. We recommend that you do NOT bring anything of value (jewelry,
+**Q.** I’m an overnight camper, what should I NOT bring with me?  
+**A.** We recommend that you do NOT bring anything of value (jewelry,
 radios, substantial amounts of cash, TVs, etc.). We cannot vouch for
 everyone who attends camp. Everyone must be vigilant regarding security
 and safety. That means always lock your door and put your name on
 everything.
 
-### Q. Are there laundry facilities on-site?
-
-A. Yes. But you should bring your own laundry detergent and change to
+**Q.** Are there laundry facilities on-site?  
+**A.** Yes. But you should bring your own laundry detergent and change to
 operate the machines.
 
-### Q. I don’t understand which grade I should put, can you explain it?
-
-A. We group teams and dorm assignments according to what grade you will
+**Q.** I don't understand which grade I should put, can you explain it?  
+**A.** We group teams and dorm assignments according to what grade you will
 be entering in the **fall of after the MPA is complete**. Please do not
 enter your current grade, but only the grade you’ll be entering.
 
-### Q. How do I get to the Nicholls State’s campus?
-
-A. Please see our [Directions to Camp](/directions) page for driving
-directions. We also offer an [Airport Shuttle](/airport-shuttle) that
+**Q.** How do I get to the Nicholls State’s campus?  
+**A.** Please see our [Directions to Camp](/page/directions) page for driving
+directions. We also offer an [Airport Shuttle](/page/airport-shuttle) that
 runs to/from the airport to campus.
 
-### Q. Will all of the Mannings be at the camp?
-
-A. Yes! Archie, Cooper, Peyton, and Eli are the first to arrive and the
+**Q.** Will all of the Mannings be at the camp?  
+**A.** Yes! Archie, Cooper, Peyton, and Eli are the first to arrive and the
 last to leave. They live right on campus with the campers and eat in the
 same dining hall. They will all actively oversee a staff of more than
 100 assistants (maintaining a camper-to-coach ratio of 10:1).
 
-### Q. Will there be an autograph session?
-
-A. No. Although celebrities attend the MPA, this is not a celebrity
+**Q.** Will there be an autograph session?  
+**A.** No. Although celebrities attend the MPA, this is not a celebrity
 camp. The Manning Passing Academy prides itself on being a “working”
 football camp. The focus of our staff is to improve each camper’s skills
 so that they leave camp a better football player than when they arrived.
 Autographs can become a sideshow and we ask all campers and staff (and
 spectators) to refrain from making autograph requests.
 
-### Q. I just graduated high school, can I still attend?
-
-A. No. The camp is only available to campers entering grades 8-12 in the
+**Q.** I just graduated high school, can I still attend?  
+**A.** No. The camp is only available to campers entering grades 8-12 in the
 fall following camp (per NCAA rules).
 
-### Q. Do I need to Medical Insurance to attend the MPA?
-
-A. Yes. All campers must be covered by insurance to attend the camp. You
+**Q.** Do I need to Medical Insurance to attend the MPA?  
+**A.** Yes. All campers must be covered by insurance to attend the camp. You
 CANNOT attend without it. If you do not have insurance you should ask
 your high school coach what options may exist. In addition a parental or
 guardian release is required for all campers.
 
-Please see the [Medical Information](/medical-information) page for full
+Please see the [Medical Information](/page/medical-information) page for full
 details.
 
-### Q. Do I need to complete a physical before attending camp?
+**Q.** Do I need to complete a physical before attending camp?  
+**A.** No. Medical insurance and a Waiver Release is all that is required.
 
-A. No. Medical insurance and a Waiver Release is all that is required.
-
-### Q. How do I know if I’m confirmed and my application is accepted?
-
-A. All campers will receive an automatic confirmation email after their
+**Q.** How do I know if I’m confirmed and my application is accepted?  
+**A.** All campers will receive an automatic confirmation email after their
 application is processed. Because this is an automated email, they
 sometimes get caught by SPAM filters. Due to this, we also offer a
-[Confirmation
-Page](https://campregistrationsystems.com/camps/2012-manning-passing-academy/campers/confirmation).
+[Confirmation Page](https://campregistrationsystems.com/camps/2015-manning-passing-academy/campers/confirmation).
 
-### Q. Is transportation available to get to camp?
-
-A. There is an Airport Shuttle (offered by a private company) that is
+**Q.** Is transportation available to get to camp?  
+**A.** There is an Airport Shuttle (offered by a private company) that is
 available to transport campers to/from New Orleans International Airport
 (MSY) on the first day of camp (Thursday) and then back to the airport
 on the last day of camp (Sunday). The Airport Hilton (located outside of
 the New Orleans Hilton in Kenner, LA) is the base for the shuttle. Sorry
 we cannot provide transportation to/from the bus or train station.
 However, they can take a taxi to the Airport Hilton in Kenner and catch
-the Airport Shuttle. See our link to the [Shuttle
-Transportation](/airport-shuttle).
+the Airport Shuttle. See our link to the [Shuttle Transportation](/page/airport-shuttle).
 
-### Q. Do I need to bring a helmet?
-
-A. No. Other than cleats and a mouthpiece, there are no equipment
+**Q.** Do I need to bring a helmet?  
+**A.** No. Other than cleats and a mouthpiece, there are no equipment
 requirements at the MPA.
 
-### Q. Can parents attend any of the practice sessions?
-
-A. Absolutely. Spectators are always welcome to watch all practices and
+**Q.** Can parents attend any of the practice sessions?  
+**A.** Absolutely. Spectators are always welcome to watch all practices and
 7 on 7 drills … as long as they stay outside of the security barriers
 (re: insurance liability).
 
-### Q. Can parents attend the evening speaker sessions?
-
-A. Sorry they cannot. We want to make sure that campers interact with
+**Q.** Can parents attend the evening speaker sessions?  
+**A.** Sorry they cannot. We want to make sure that campers interact with
 speakers without feeling self-conscious because adults are in the room
 and there is no room to accommodate both campers and parents anyway.
 
-### Q. How do I find local accommodations in the Nicholls State/Thibodaux area?
-
-A. The local Thibodaux Chamber of Commerce offers a link to local
-accommodations. See [Local Accommodations](/local-accommodations). Sorry
+**Q.** How do I find local accommodations in the Nicholls State/Thibodaux area?  
+**A.** The local Thibodaux Chamber of Commerce offers a link to local
+accommodations. See [Local Accommodations](/page/local-accommodations). Sorry
 but the MPA is not in a position to provide accommodations or recommend
 any properties.
 
-### Q. Do I get my money back if I cancel?
-
-A. You would get all of your money back **except the non-refundable $100
+**Q.** Do I get my money back if I cancel?  
+**A.** You would get all of your money back **except the non-refundable $100
 deposit**. The camp hires a large number of coaches to provide
 instruction based on expected attendance. The reason is when you cancel,
 we still have to compensate the coaches we’ve hired.
 
-### Q. What if I have a medical condition? Who should I tell?
-
-A. It depends upon the condition. If you have dietary requirements you
+**Q.** What if I have a medical condition? Who should I tell?  
+**A.** It depends upon the condition. If you have dietary requirements you
 should email us as soon as possible so we can discuss the situation with
 the dining hall. Most (if not all) situations are remedied to the
 satisfaction of the camper. If you need to take medication (or it needs
@@ -157,9 +133,8 @@ check-in. They are available at the front of the line. Understand, it is
 your responsibility to address these concerns upon arrival so that we
 can assist you.
 
-### Q. What coaches will be at the camp?
-
-A. Due to the fact that there is so much movement in the football
+**Q.** What coaches will be at the camp?  
+**A.** Due to the fact that there is so much movement in the football
 coaching profession, we are unable to provide a list of staff members
 until camp and represent all levels of football (professional, college
 and high school). Rest assured they will always be of the highest

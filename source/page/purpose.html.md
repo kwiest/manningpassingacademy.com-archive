@@ -14,4 +14,4 @@ family-owned and managed football camp that embraces the basic
 fundamentals of football while catering to the offensive skill positions
 of RB, TE, WR...and of course QB.
 
-![Purpose](/media/4e833f8447ec7-application_registration.jpg)
+![Purpose](/images/application-registration.jpg)

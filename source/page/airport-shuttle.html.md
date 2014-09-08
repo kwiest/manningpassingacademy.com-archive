@@ -10,11 +10,10 @@ closest airport is [New Orleans International](http://www.flymsy.com/)
 Thibodaux, Louisiana (60 miles west of New Orleans, and 60 miles north
 of the Gulf Coast).
 
-[Sign Up for a Shuttle
-Online](https://campregistrationsystems.com/manning-passing-academy/2014-mpa-shuttle)\
- \**$5 non-refundable online registration fee applies*
+[Sign Up for a Shuttle Online](https://campregistrationsystems.com/manning-passing-academy/2014-mpa-shuttle)  
+*$5 non-refundable online registration fee applies*
 
-[Printable Shuttle Form](/media/52406dd9a7f85-shuttle.pdf)
+[Printable Shuttle Form](/documents/shuttle.pdf)
 
 There is an airport shuttle service available for campers between Louis
 Armstrong (New Orleans) Airport and Nicholls State University that costs
@@ -32,13 +31,13 @@ Other than this shuttle service there is no other transportation
 provided (due to insurance issues). You may want to pursue information
 at:
 
-[Amtrack](http://www.amtrak.com/)\
- *(800) USA RAIL*
+[Amtrack](http://www.amtrak.com/)  
+*(800) 872-7245*
 
-[Greyhound Bus Company](http://www.greyhound.com/)\
- *(800) 229-9424*
+[Greyhound Bus Company](http://www.greyhound.com/)  
+*(800) 229-9424*
 
-[New Orleans Aiport](http://www.flymsy.com/)\
- *(504) 464-2661*
+[New Orleans Aiport](http://www.flymsy.com/)  
+*(504) 464-2661*
 
-![Shuttle/Transportation](/media/4e80df3b694ef-shuttle_transportation.jpg)
+![Shuttle/Transportation](/images/airport-shuttle.jpg)

@@ -13,4 +13,4 @@ has 4 law enforcement officers on staff 24 hours a day.
 
 There are **NO EXCEPTIONS**
 
-![Roommates](/media/4e80de7016faf-roommates.jpg)
+![Roommates](/images/roommates.jpg)

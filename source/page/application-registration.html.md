@@ -1,10 +1,10 @@
-Registration for the 2014 MPA is now closed.
-============================================
+Registration / Application
+==========================
 
--   ~~Online Registration~~\
-     ***Campers who register online receive a Spalding TF-SB1 football
-    ($100 value)**\
-     \*15 non-refundable online registration fee applies*
--   ~~Printable Application~~
+* [Online Registration](https://campregistrationsystems.com/manning-passing-academy)  
+*Campers who register online receive a free Spalding TF-SB1 football, a $100
+value*  
+*$15 non-refundable online registration fee applies*
+* [Printable Application](/documents/application.pdf)
 
-![Application/Registration](/media/4e80e147eebb0-application_registration.jpg)
+![Application/Registration](/images/application_registration.jpg)

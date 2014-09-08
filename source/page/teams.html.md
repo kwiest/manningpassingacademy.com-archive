@@ -14,4 +14,4 @@ camper will NOT be allowed to move up. However, if a camper feels that
 they should be in a lower level, due to ability, experience, or because
 younger teammates are in attendance, we will allow it.*
 
-![Teams](/media/4e80de41cc13b-teams.jpg)
+![Teams](/images/teams.jpg)
