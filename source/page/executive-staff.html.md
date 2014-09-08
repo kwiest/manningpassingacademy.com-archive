@@ -26,7 +26,7 @@ draft, he went on to a brilliant 14 year career that included stints
 with the New Orleans Saints, Houston Oilers, and Minnesota Vikings.
 
 As the New Orleans Saints field general, Archie was named league MVP in
-\`78 and was twice selected to the Pro Bowl.
+'78 and was twice selected to the Pro Bowl.
 
 As a community leader, he has supported numerous non-profits and
 charities over the years in both Louisiana and Mississippi while
@@ -55,6 +55,9 @@ of RB, TE, WR…and of course QB.
 Archie and his wife Olivia (a former Homecoming Queen at Ole Miss)
 reside in New Orleans are the proud grandparents of six grandchildren by
 Cooper, Peyton and Eli.
+
+<div class="clearfix"></div>
+<hr />
 
 <div class="pull-left">
   <img src="/images/executive-staff-cooper.jpg" class="img-responsive img-thumbnail">
@@ -96,6 +99,9 @@ sons, Arch and Heid.
 
 Cooper remains the most handsome Manning and has no plans of losing that
 title.
+
+<div class="clearfix"></div>
+<hr />
 
 <div class="pull-left">
   <img src="/images/executive-staff-peyton.jpg" class="img-responsive img-thumbnail">
@@ -152,14 +158,17 @@ All-District pick at QB.
 Peyton and his wife Ashley reside in Indianapolis, Indiana and are the
 proud parents of twins Mosley and Marshall.
 
+<div class="clearfix"></div>
+<hr />
+
 <div class="pull-left">
-  <img src="/images/executive-staff-peyton.jpg" class="img-responsive img-thumbnail">
+  <img src="/images/executive-staff-eli.jpg" class="img-responsive img-thumbnail">
 </div>
 
 Eli Manning - Senior Associate Director
 ---------------------------------------
 
-Following in his brother’s footsteps Eli was the first pick in the 2004
+Following in his brother's footsteps Eli was the first pick in the 2004
 NFL Draft by the NY Giants.
 
 Eli just completed his 7th season and has 87 starts under his belt.
@@ -201,6 +210,9 @@ School and was an All-American, All-State and All-District pick at QB.
 Eli and his wife Abby reside in Hoboken, New Jersey and are the proud
 parents of newborn daughter Ava.
 
+<div class="clearfix"></div>
+<hr />
+
 <div class="pull-left">
   <img src="/images/executive-staff-buddy.jpg" class="img-responsive img-thumbnail">
 </div>
@@ -210,14 +222,14 @@ Buddy Teevens - Associate Director
 
 Buddy has been an integral part of the MPA since its inception. He is
 the head football coach at Dartmouth College in Hanover, New Hampshire.
-Teevens started his coaching career at DePauw University (\`79) and went
+Teevens started his coaching career at DePauw University ('79) and went
 on to become offensive coordinator at Boston University (1980-84). Buddy
-first became a head coach at the University of Maine (\`85) where he led
+first became a head coach at the University of Maine ('85) where he led
 the Black Bears to a 6-5 and 7-4 marks in successive seasons, the
 program’s first back-to-back winning seasons in 21 years. His first
 stint at Dartmouth College (his alma mater) was from 1987-91. As head
 coach he won two Ivy League Championships (he also won one as a player)
-before moving on to Tulane University in \`92. From 1992-96, Teevens
+before moving on to Tulane University in '92. From 1992-96, Teevens
 rebuilt the Green Wave program and recruited most of the team that went
 12-0 in 1998. Teevens served as offensive coordinator and receivers
 coach at Illinois from 1997-98, and passing game coordinator at Florida
@@ -227,6 +239,9 @@ Manning Passing Academy, coach Teevens oversees all aspects of the
 on-field operation and coaching staff. A native of Pembroke, Mass.
 Teevens and his wife Kirsten, reside in Hanover, New Hampshire, have two
 children, Lindsay, and Eugene IV.
+
+<div class="clearfix"></div>
+<hr />
 
 <div class="pull-left">
   <img src="/images/executive-staff-hawk.jpg" class="img-responsive img-thumbnail">
@@ -239,7 +254,7 @@ Hawk is entering his 17th year as Associate Camp Director. He is
 responsible for all aspects of administration. He is in his 12th season
 as director of football operations at the University of Oregon. Hawkins
 spent three years in the U.S. Army after high school. He earned his
-undergraduate degree at Bridgewater State College (\`80), where he
+undergraduate degree at Bridgewater State College ('80), where he
 started all four years on the defensive line and was named co-captain in
 his senior year. After graduation he spent five years with the New
 England Patriots in the team’s marketing & promotions division. He broke
@@ -253,6 +268,9 @@ as vice president of Special Olympics Louisiana, a charity that he
 personally has invested more than twenty years in as a volunteer. Jeff,
 a native of Pembroke, Mass., and his wife Amy reside in Eugene, Oregon
 with their daughter Gabrielle.
+
+<div class="clearfix"></div>
+<hr />
 
 <div class="pull-left">
   <img src="/images/executive-staff-kyle.jpg" class="img-responsive img-thumbnail">
@@ -268,6 +286,9 @@ administration and information technology. Wiest, a Masters recipient
 from the University of Oregon is the Director of Football Operations at
 the University of Oregon and resides in Eugene.
 
+<div class="clearfix"></div>
+<hr />
+
 Tom Hart - Director of Camp Security
 ------------------------------------
 
@@ -280,6 +301,9 @@ Unit. Tom graduated from Bridgewater State College (Bridgewater, MA)
 with a degree in physical education. He currently serves as the
 Professional Development Coordinator at the University of Oregon
 athletic department.
+
+<div class="clearfix"></div>
+<hr />
 
 <div class="pull-left">
   <img src="/images/executive-staff-greg.jpg" class="img-responsive img-thumbnail">
@@ -302,6 +326,9 @@ in Communications from Memphis State University.
 He and his wife Lydia reside in Fort Worth, Texas with their son
 Christian.
 
+<div class="clearfix"></div>
+<hr />
+
 <div class="pull-left">
   <img src="/images/executive-staff-andy.jpg" class="img-responsive img-thumbnail">
 </div>
@@ -322,6 +349,9 @@ and Northeastern University in Boston, MA.
 Solari served in the US Coast Guard and is a native of Pembroke, MA. He
 currently resides in Marshfield, MA with his wife Beth, a registered
 nurse, and their three children: Jessica, Emily, and Tony.
+
+<div class="clearfix"></div>
+<hr />
 
 <div class="pull-left">
   <img src="/images/executive-staff-ed.jpg" class="img-responsive img-thumbnail">
@@ -358,6 +388,9 @@ He and wife, Rae, reside in Honolulu with their two Boxers (Mr. Lex and
 Princess) and English Bulldog (Lady). Ed's daughter, Sarah, is a student
 at the University of Nevada Las Vegas.
 
+<div class="clearfix"></div>
+<hr />
+
 <div class="pull-left">
   <img src="/images/executive-staff-jimmy.jpg" class="img-responsive img-thumbnail">
 </div>
@@ -368,6 +401,9 @@ Jim Marinelli - Director of Operations
 Entering his 10th year associated with the MPA, Jim oversees all aspects
 of logistical operations of the camp including set-up and break-down and
 everything in between.
+
+<div class="clearfix"></div>
+<hr />
 
 Rick Solari - Director of Merchandising
 ---------------------------------------
