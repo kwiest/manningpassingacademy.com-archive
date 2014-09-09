@@ -7,4 +7,4 @@ value*
 *$15 non-refundable online registration fee applies*
 * [Printable Application](/documents/application.pdf)
 
-![Application/Registration](/images/application_registration.jpg)
+![Application/Registration](/images/application-registration.jpg)

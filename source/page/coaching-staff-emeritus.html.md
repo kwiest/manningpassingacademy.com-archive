@@ -27,4 +27,4 @@ profession, we cannot give a full list of the coaching staff until late
 June. Rest assured that, as always, they will all be of the highest quality
 coaches available.*
 
-![Coaching Staff Emeritus](/images/coaching-staff-emeritus.jpg)
+![Coaching Staff Emeritus](/images/coaching-staff.jpg)

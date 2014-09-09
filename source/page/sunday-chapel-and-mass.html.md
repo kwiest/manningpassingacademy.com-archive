@@ -4,4 +4,4 @@ Sunday Chapel and Mass
 Non-denominational chapel services as well as Catholic Mass will be held
 in the campus Chapel and Church prior to Sunday’s practice session.
 
-![Sunday Chapel and Mass](/iimages/sunday-chapel-and-mass.jpg)
+![Sunday Chapel and Mass](/images/sunday-chapel-and-mass.jpg)
