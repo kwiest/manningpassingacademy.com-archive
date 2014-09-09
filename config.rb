@@ -43,11 +43,15 @@ page "page/*", layout: :page
 # end
 
 # Methods defined in the helpers block are available in templates
-# helpers do
-#   def some_helper
-#     "Helping"
-#   end
-# end
+helpers do
+  def overnight_tuition
+    585
+  end
+
+  def day_tuition
+    440
+  end
+end
 
 set :css_dir, 'stylesheets'
 
