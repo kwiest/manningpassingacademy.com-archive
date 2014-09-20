@@ -401,3 +401,26 @@ industry.
 Rick is currently serving as a Systems Consultant and Vice President for the
 Wealth Management Services division of the State Street Bank and Trust Company
 in Boston, MA.
+
+<div class="clearfix"></div> <hr />
+
+<div class="pull-left">
+  <img src="/images/executive-staff-parker.jpg"
+    class="img-responsive img-thumbnail">
+</div>
+
+Parker Waters - Photographer
+----------------------------
+
+Parker is entering his sixth year with Manning Passing Academy as the camp
+photographer.  He currently serves as the photographer for Tulane Athletics,the
+New Orleans Zephyrs (AAA affiliate of the Miami Marlins) and SportsNola.com. He
+regularly covers both NFL and NBA games, high school games for MaxPreps and has
+covered the Superbowl and National Championships in football, basketball and
+golf.
+
+Parker is originally from Fort Walton Beach, FL and now resides in New Orleans.
+He earned his BA degree from Tulane University.  Prior to pursuing his career
+in photography, he served as Second Vice President  of market and product
+development in the International Division of a New Orleans based insurance
+company.
