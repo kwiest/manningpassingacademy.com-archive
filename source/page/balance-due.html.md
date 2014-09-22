@@ -5,4 +5,4 @@ Balance Due
 *Only available if you registered online*
 * [Printable balance-due form](/documents/balance-due.pdf)
 
-![Balance Due](/images/balance-due.jpg)
+<img src="/images/balance-due.jpg" class="img-responsive img-thumbnail">

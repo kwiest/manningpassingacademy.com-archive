@@ -40,4 +40,4 @@ at:
 [New Orleans Aiport](http://www.flymsy.com/)  
 *(504) 464-2661*
 
-![Shuttle/Transportation](/images/airport-shuttle.jpg)
+<img src="/images/airport-shuttle.jpg" class="img-responsive img-thumbnail">

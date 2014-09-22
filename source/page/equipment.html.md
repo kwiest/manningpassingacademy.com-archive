@@ -1,7 +1,7 @@
 Equipment
 =========
 
-![image](/images/equipment.jpg)
+<img src="/images/equipment.jpg" class="img-responsive img-thumbnail">
 
 This is a NON-CONTACT football camp and therefore there are NO equipment
 requirements… but there are minimal needs. Grass cleats are preferable

@@ -8,4 +8,4 @@ and everything is first-class.
 
 Maps of the Nicholls State campus can be found [here](/page/campus-map).
 
-![Facilities](/images/facilities.jpg)
+<img src="/images/facilities.jpg" class="img-responsive img-thumbnail">

@@ -16,4 +16,4 @@ fee thereafter)
 
 **Refunds Processed** - August 1, 2015
 
-![Important Dates](/images/important-dates.jpg)
+<img src="/images/important-dates.jpg" class="img-responsive img-thumbnail">

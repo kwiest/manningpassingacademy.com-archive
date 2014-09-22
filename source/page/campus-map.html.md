@@ -7,4 +7,4 @@ find your way around campus.
 
 [Printable Campus Map](/documents/campus-map.pdf)
 
-![Campus Map](/images/campus-map.jpg)
+<img src="/images/campus-map.jpg" class="img-responsive img-thumbnail">

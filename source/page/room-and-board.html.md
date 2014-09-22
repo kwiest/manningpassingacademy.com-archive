@@ -35,4 +35,4 @@ registration.
 Campers will be able to purchase snack foods and pizza during their free
 time in the evening.
 
-![Room and Board](/images/room-and-board.jpg)
+<img src="/images/room-and-board.jpg" class="img-responsive img-thumbnail">

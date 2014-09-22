@@ -24,4 +24,4 @@ Offense is that it provides you the opportunity to potentially
 utilize all of your playmakers on every play. And as always, it’s
 all about tempo.
 
-![Areas of Instruction](/images/areas-of-instruction.jpg)
+<img src="/images/areas-of-instruction.jpg" class="img-responsive img-thumbnail">

@@ -13,4 +13,4 @@ the industry. The MPA philosophy towards performance enhancement is...
 how."* This seminar is offered as a complimentary addition to your MPA
 experience.
 
-![Speed Seminar](/images/speed-seminar.jpg)
+<img src="/images/speed-seminar.jpg" class="img-responsive img-thumbnail">

@@ -14,4 +14,4 @@ exceptions:
 * Day campers are welcome to stay throughout the evening activities
   right up until they are done (approximately 10:00pm).
 
-![Day Campers](/images/day-campers.jpg)
+<img src="/images/day-campers.jpg" class="img-responsive img-thumbnail">

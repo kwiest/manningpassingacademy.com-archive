@@ -25,4 +25,4 @@ although the Manning name has been practically synonymous with the
 quarterback position for almost four decades… the MPA is not just for
 QBs.
 
-![History](/images/history.jpg)
+<img src="/images/history.jpg" class="img-responsive img-thumbnail">

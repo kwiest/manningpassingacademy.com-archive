@@ -30,3 +30,5 @@ a written request has been submitted.
 If you register online, you have paid an additional $15 online
 registration fee. This fee is also non-refundable, and is used to defer
 the costs incured when processing payments online.
+
+<img src="/images/refund-policy.jpg" class="img-responsive img-thumbnail">
