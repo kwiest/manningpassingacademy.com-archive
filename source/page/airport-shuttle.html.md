@@ -4,16 +4,15 @@ Shuttle / Transportation
 Air Travel
 ----------
 
+* [Sign Up for a Shuttle Online](https://campregistrationsystems.com/manning-passing-academy/2014-mpa-shuttle)  
+  *$5 non-refundable online registration fee applies*
+* [Printable Shuttle Form](/documents/shuttle.pdf)
+
 We typically have campers from all 50 states, Canada and Mexico. The
 closest airport is [New Orleans International](http://www.flymsy.com/)
 (MSY). The camp site is located at Nicholls State University in
 Thibodaux, Louisiana (60 miles west of New Orleans, and 60 miles north
 of the Gulf Coast).
-
-[Sign Up for a Shuttle Online](https://campregistrationsystems.com/manning-passing-academy/2014-mpa-shuttle)  
-*$5 non-refundable online registration fee applies*
-
-[Printable Shuttle Form](/documents/shuttle.pdf)
 
 There is an airport shuttle service available for campers between Louis
 Armstrong (New Orleans) Airport and Nicholls State University that costs
