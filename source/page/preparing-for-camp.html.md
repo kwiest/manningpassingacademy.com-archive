@@ -36,3 +36,5 @@ Preparing for Camp
 * If you have [medical needs](/page/medical-information)
   be sure to communicate them with our camp administration so that they
   can direct you properly.
+
+<img src="/images/preparing-for-camp.jpg" class="img-responsive img-thumbnail">
