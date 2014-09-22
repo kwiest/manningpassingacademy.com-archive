@@ -6,9 +6,7 @@ Important Dates
 **Payment-in-Full for Pre-Registered Campers** - May 15, 2015 ($100 late
 fee thereafter)
 
-**Drop From Roster** - June 1, 2015
-
-**No Refunds** - June 15, 2015
+**Drop From Roster, No Refunds** - June 1, 2015
 
 **Camp Begins** - July 9, 2015
 
