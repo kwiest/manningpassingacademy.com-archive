@@ -13,15 +13,21 @@ title: 2015 Manning Passing Academy
 
       <div class="carousel-inner">
         <div class="item active">
-          <%= image_tag 'carousel-mannings.png', alt: 'Registration is now open!' %>
+          <% link_to online_registration_link do %>
+            <%= image_tag 'carousel-mannings.png', alt: 'Registration is now open!' %>
+          <% end %>
         </div>
 
         <div class="item">
-          <%= image_tag 'carousel-football.png', alt: 'Free Spalding TF-SB1 Football.' %>
+          <% link_to online_registration_link do %>
+            <%= image_tag 'carousel-football.png', alt: 'Free Spalding TF-SB1 Football.' %>
+          <% end %>
         </div>
 
         <div class="item">
-          <%= image_tag 'carousel-online-store.png', alt: 'Online Store now open.' %>
+          <% link_to '/page/online-store/' do %>
+            <%= image_tag 'carousel-online-store.png', alt: 'Online Store now open.' %>
+          <% end %>
         </div>
       </div>
     </div>
