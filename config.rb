@@ -51,6 +51,14 @@ helpers do
   def day_tuition
     460
   end
+
+  def online_registration_link
+    'https://campregistrationsystems.com/manning-passing-academy/2015-manning-passing-academy'
+  end
+
+  def confirmation_link
+    'https://campregistrationsystems.com/manning-passing-academy/2015-manning-passing-academy/confirmation'
+  end
 end
 
 set :css_dir, 'stylesheets'
