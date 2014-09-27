@@ -411,8 +411,8 @@ in Boston, MA.
     class="img-responsive img-thumbnail">
 </div>
 
-Parker Waters - Photographer
-----------------------------
+Parker Waters - Director of Photographry
+----------------------------------------
 
 Parker is entering his sixth year with Manning Passing Academy as the camp
 photographer.  He currently serves as the photographer for Tulane Athletics,the
