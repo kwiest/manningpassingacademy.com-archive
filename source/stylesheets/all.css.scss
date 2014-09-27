@@ -13,7 +13,7 @@ body {
   color: #fff;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
   text-align: center;
-  background: -moz-linear-gradient(top,  #ffffff 0%, #5898ff 100%)
+  background: -moz-linear-gradient(top,  #ffffff 0%, #5898ff 100%);
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#5898ff));
   background: -webkit-linear-gradient(top,  #ffffff 0%,#5898ff 100%);
   background: -o-linear-gradient(top,  #ffffff 0%,#5898ff 100%);
@@ -57,4 +57,10 @@ body {
     1px -1px 4px #fff,
     -1px 1px 4px #fff,
     1px 1px 4px #fff;
+}
+
+#home-description {
+  .col-md-4 {
+    text-align: center;
+  }
 }
