@@ -16,7 +16,7 @@ of the Gulf Coast).
 
 There is an airport shuttle service available for campers between Louis
 Armstrong (New Orleans) Airport and Nicholls State University that costs
-$50 round trip (or $25 each way). This service is provided by an outside
+$60 round trip (or $30 each way). This service is provided by an outside
 company and is only offered on Thursday and Sunday only.
 
 There is a $10 fee for any shuttle cancellations.

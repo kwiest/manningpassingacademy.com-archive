@@ -16,10 +16,10 @@ Typically, when a student-athlete attends a football camp, he receives a
 T-shirt.
 
 Due to the generosity of our [sponsors](/page/sponsors), MPA campers will
-receive 2 T-shirts, a pair of shorts, 2 caps, a water bottle, a gym bag,
-key lanyard, play-call sleeve, towel, wristband, and a commemorative DVD
-at the end of camp\*.  
-\**After camper returns dorm key. A $45 value!*
+receive multiple gifts including T-Shirts, caps, a water bottle, a gym bag, a
+key lanyard, a commemorative DVD at the conclusion of camp\* and much, much
+more!  
+\**After camper returns dorm key. A $50 value!*
 
 Those campers who register online will also receive a [Spalding TF-SB1
 Football](http://spalding.com/football/index.php) when they arrive at

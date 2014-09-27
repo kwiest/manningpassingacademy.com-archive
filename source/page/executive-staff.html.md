@@ -24,9 +24,9 @@ league MVP in `78 and was twice selected to the Pro Bowl.
 As a community leader, he has supported numerous non-profits and charities over
 the years in both Louisiana and Mississippi while continuing to assist those who
 share his love for the game of football.  In 2013 he became the eighth recipient
-of the NFL’s prestigious “Pat Summerall Award” given to an individual who has
+of the NFL's prestigious "Pat Summerall Award" given to an individual who has
 demonstrated through their career the character, integrity and leadership both
-on and off the job.
+on and off the field.
 
 Archie is Chairman of the National Football Foundation College Hall of Fame and
 a member of the Mississippi Sports Hall of Fame and serves as an active member
@@ -40,12 +40,12 @@ demonstrated exemplary conduct and reputation on and off the field. In October
 Football Playoff Selection Committee.
 
 A portion of the Manning Passing Academy proceeds is donated to Special Olympics
-Louisiana and the Fellowship of Christian Athletes. Archie and Peyton have
-written a book entitled “Manning: A Father, His Sons and A Football Legacy” and
-also have a national quarterback award named after the family. The Manning
-Award, hosted by the Sugar Bowl Committee, in honor of Archie, Peyton and Eli is
-the only national quarterback award that considered the candidates post-season
-play.
+Louisiana, the Fellowship of Christian Athletes, and the Brain Tumor Research
+Center. Archie and Peyton have written a book entitled "Manning: A Father, His
+Sons and A Football Legacy," and also have a national quarterback award named
+after the family. The Manning Award, hosted by the Sugar Bowl Committee, in
+honor of Archie, Peyton and Eli is the only national quarterback award that
+considered the candidates post-season play.
 
 For almost four decades, the Manning family and the quarterback position have
 been practically synonymous with one another. As such, their summer vacations
@@ -96,7 +96,7 @@ class="img-responsive img-thumbnail"> </div>
 Peyton Manning - Senior Associate Director
 ------------------------------------------
 
-A 16-year NFL veteran, Manning is widely regarded as one of the best
+A 17-year NFL veteran, Manning is widely regarded as one of the best
 quarterbacks to have ever played the game as the league’s only five-time MVP
 whose 13 Pro Bowl selections are the most ever by a QB.
 
@@ -167,8 +167,8 @@ class="img-responsive img-thumbnail"> </div>
 Eli Manning - Senior Associate Director
 ---------------------------------------
 
-Following in his brother’s footsteps, Eli was the first pick in the 2004 NFL
-Draft by the NY Giants. In the past nine years, Eli has won two Super Bowls and
+Following in his brother's footsteps, Eli was the first pick in the 2004 NFL
+Draft by the NY Giants. In the past 10 years, Eli has won two Super Bowls and
 earned two Super Bowl MVP honors.
 
 In 2012, Eli staked his claim among the elite passers in the NFL when he led the
@@ -257,21 +257,23 @@ class="img-responsive img-thumbnail"> </div>
 Jeff "Hawk" Hawkins - Associate Director
 ----------------------------------------
 
-Hawk is entering his 18th year as Associate Camp Director. He is responsible for
-all aspects of administration. He is in his 13th season at the University of
-Oregon. Hawkins spent three years in the U.S. Army after high school. He earned
-his undergraduate degree at Bridgewater State College ('80), where he started
-all four years on the defensive line and was named co-captain in his senior
-year. After graduation he spent five years with the New England Patriots in the
-team’s marketing & promotions division. He broke into the coaching ranks at
-Chico State (1985-86) before joining Buddy Teevens at Dartmouth College as his
-DFO in 1987 and followed him to Tulane University (1992-96). After his stint
-with the Green Wave, he served as director of special projects with the Nokia
-Sugar Bowl (1996-01) and regularly worked game-day assignments with Tulane
-University and the New Orleans Saints. He also served a four year term as vice
-president of Special Olympics Louisiana, a charity that he personally has
-invested more than twenty years in as a volunteer. Jeff, a native of Pembroke,
-Mass., and his wife Amy reside in Eugene, Oregon with their daughter Gabrielle.
+Hawk is entering his 19th year as Associate Camp Director. He is responsible for
+all aspects of administration. He is in his 14th season at the University of
+Oregon where he serves as the Senior Associate Athletic Director for Football
+Administration and the Director of the Hatfield-Dowlin Complex. Hawkins spent
+three years in the U.S. Army after high school. He earned his undergraduate
+degree at Bridgewater State College ('80), where he started all four years on
+the defensive line and was named co-captain in his senior year. After graduation
+he spent five years with the New England Patriots in the team's marketing &
+promotions division. He broke into the coaching ranks at Chico State (1985-86)
+before joining Buddy Teevens at Dartmouth College a position coach and DFO in
+1987 and followed him to Tulane University (1992-96). After his stint with the
+Green Wave, he served as director of special projects with the Nokia Sugar Bowl
+(1996-01) and regularly worked game-day assignments with Tulane University and
+the New Orleans Saints. He also served a four year term as vice president of
+Special Olympics Louisiana, a charity that he personally has invested more than
+twenty years in as a volunteer. Jeff, a native of Pembroke, Mass., and his wife
+Amy reside in Eugene, Oregon with their daughter Gabrielle.
 
 <div class="clearfix"></div> <hr />
 

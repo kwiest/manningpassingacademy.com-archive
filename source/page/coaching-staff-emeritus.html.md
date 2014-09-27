@@ -8,11 +8,13 @@ regardless of ages or ability levels. The overall staff is comprised of
 past and present coaches and players from the NFL, college, and high
 school ranks.
 
-The on-field (coaching) and off-field (administrative) operations and
-handled respectively by [Dartmouth College's](http://athletics.dartmouth.edu/)
-head football coach Buddy Teevens and the [University of Oregon's](http://www.goducks.com/)
-Director of Football Operations Jeff Hawkins. Together they boast more
-than 70 years of successful camp experiences between them.
+The on-field (coaching) and off-field (administrative) operations and handled
+respectively by [Dartmouth College's](http://athletics.dartmouth.edu/) head
+football coach Buddy Teevens and the [University of
+Oregon's](http://www.goducks.com/) Senior Associate Athletic Director for
+Football Administration and Operations and Director of the Hatfield-Dowlin
+Complex, Jeff Hawkins. Together they boast more than 70 years of successful camp
+experiences between them.
 
 The coaching and counseling staff are further complemented with
 successful college and high school coaches from across the nation as

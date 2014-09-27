@@ -22,20 +22,24 @@ Friday - 11:10-11:45 a.m. - Guidry Stadium's Century Room\
  This is the media's only opportunity to interview the Manning's as well
 as selected camp coaches and counselors at camp.
 
-### Air-It-Out Session
+### Quarterback Competitions
 
 Saturday - 6:30 p.m. - Guidry Stadium - Manning Field Camp coaches and
 counselors, including selected campers, will run passing route drills.
 Photo Opportunity Only. No interviews with coaches, counselors or campers.
 
+* Iberia Bank Air-It-Out
+* Papa John's QB Challenge
+* QB Dead-Eye Contest
+
 ### Credential Information
 
-Media members wishing to cover the camp and/or the Manning Interview
-Session and Air-it-Out Session would need to be put on a list and have a
-credential issued. Please contact Gregory Blackwell by email
-[gregb0663@att.net](mailto:gregb0663@att.net), no later than the Tuesday
-before camp starts if you will be attending and/or will be sending other
-members from your organization.
+Media members wishing to cover the camp and/or the Manning Interview Session and
+Challenge Competitions would need to be put on a list and have a credential
+issued. Please contact Gregory Blackwell by email
+[gregb0663@att.net](mailto:gregb0663@att.net), no later than the Tuesday before
+camp starts if you will be attending and/or will be sending other members from
+your organization.
 
 The Manning Passing Academy is a prep football skills camp and not an
 college or NFL-type training camp, so we do not offer daily media
@@ -81,15 +85,15 @@ camp. The interview procedure is as follows:
   available for their interviews at break out areas inside the Century
   Club Room. These interviews will last for approximately 20 minutes.
 
-### Air-It-Out Session
+### Quarterback Competitions
 
-There will be a photo opportunity for the media during the Air-it-Out
-program on Saturday from 6:30 p.m. to 7:15 p.m. at Guidry Stadium. Camp
-coaches and counselors, including selected campers, will run passing
-route drills in front of campers and those in attendance at Guidry
-Stadium that day. It's a **PHOTO OPPORTUNITY ONLY, NO INTERVIEWS**.
-Media Photographers can shoot in the stands and/or in the specific
-designated area on the sidelines of the field during this event.
+There will be a photo opportunity for the media during the QB Competitions on
+Saturday from 6:30 p.m. to 7:15 p.m. at Guidry Stadium. Camp coaches and
+counselors, including selected campers, will run passing route drills in front
+of campers and those in attendance at Guidry Stadium that day. It's a **PHOTO
+OPPORTUNITY ONLY, NO INTERVIEWS**.  Media Photographers can shoot in the stands
+and/or in the specific designated area on the sidelines of the field during this
+event.
 
 ### Special Interview Requests
 
@@ -210,7 +214,11 @@ scheduling and coverage of camp.
     </tr>
     <tr>
       <td>6:00 PM</td>
-      <td>Air-It-Out Session</td>
+      <td>
+        Iberia Bank Air-It-Out<br />
+        Papa John's QB Challenge<br />
+        QB Dead-Eye Contest
+      </td>
       <td>Guidry Stadium</td>
     </tr>
   </tbody>

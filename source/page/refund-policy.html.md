@@ -19,7 +19,7 @@ automatically be assessed a $100 late fee. If you cancel, you will lose
 the $100 non-refundable deposit… but will be refunded all monies that
 you have paid beyond that.
 
-**If YOU CANCEL AFTER JUNE 15, THERE ARE NO REFUNDS.**
+**If YOU CANCEL AFTER JUNE 1, THERE ARE NO REFUNDS.**
 
 Refunds will not be processed until after August 1, and then only after
 a written request has been submitted.
@@ -27,8 +27,7 @@ a written request has been submitted.
 **$15 Online Registration Fee**
 -------------------------------
 
-If you register online, you have paid an additional $15 online
-registration fee. This fee is also non-refundable, and is used to defer
-the costs incured when processing payments online.
+For campers who register online, a $15 non-refundable registration fee is added.
+This fee goes to a third party who helps the MPA accept payments online.
 
 <img src="/images/refund-policy.jpg" class="img-responsive img-thumbnail">

@@ -1,7 +1,7 @@
 Areas of Instruction
 ====================
 
-The MPA boasts a campee to coach ratio of better than 10:1
+The MPA boasts a camper to coach ratio of better than 10:1
 
 * **Quarterbacks** - Stance, Exchange, Drops, Set-up, Sprint Out, Play
 Action, Screens, Ball Handling, Option, Reading Defenses, and Field
