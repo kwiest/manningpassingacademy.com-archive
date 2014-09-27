@@ -45,7 +45,7 @@ page "page/*", layout: :page
 # Methods defined in the helpers block are available in templates
 helpers do
   def overnight_tuition
-    610
+    605
   end
 
   def day_tuition
