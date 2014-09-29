@@ -69,7 +69,7 @@ set :images_dir, 'images'
 
 activate :directory_indexes
 
-activate :asset_host, host: 'https://d2ddt8dkfbm0fn.cloudfront.net'
+# activate :asset_host, host: 'https://d2ddt8dkfbm0fn.cloudfront.net'
 
 # Build-specific configuration
 configure :build do
