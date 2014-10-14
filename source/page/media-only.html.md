@@ -1,3 +1,7 @@
+---
+title: "Media Only"
+---
+
 Media Only
 ==========
 

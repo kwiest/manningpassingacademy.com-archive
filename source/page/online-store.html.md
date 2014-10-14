@@ -1,3 +1,7 @@
+---
+title: "Online Store"
+---
+
 Official MPA Store
 ==================
 

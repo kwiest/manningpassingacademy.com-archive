@@ -1,3 +1,7 @@
+---
+title: "Faq"
+---
+
 Frequently Asked Questions
 ==========================
 
