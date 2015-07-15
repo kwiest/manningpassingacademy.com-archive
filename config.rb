@@ -44,6 +44,10 @@ page "page/*", layout: :page
 
 # Methods defined in the helpers block are available in templates
 helpers do
+  def year
+    2016
+  end
+
   def overnight_tuition
     605
   end
