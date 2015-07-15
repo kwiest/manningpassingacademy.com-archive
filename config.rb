@@ -52,6 +52,14 @@ helpers do
     460
   end
 
+  def start_date
+    Date.parse '2016-06-21'
+  end
+
+  def end_date
+    Date.parse '2016-06-23'
+  end
+
   def online_registration_link
     'https://campregistrationsystems.com/manning-passing-academy/2015-manning-passing-academy'
   end
