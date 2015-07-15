@@ -60,6 +60,18 @@ helpers do
     Date.parse '2016-06-23'
   end
 
+  def balance_due_date
+    Date.parse '2016-05-01'
+  end
+
+  def drop_from_roster_date
+    Date.parse '2016-06-01'
+  end
+
+  def refund_date
+    Date.parse '2016-08-01'
+  end
+
   def online_registration_link
     'https://campregistrationsystems.com/manning-passing-academy/2015-manning-passing-academy'
   end
