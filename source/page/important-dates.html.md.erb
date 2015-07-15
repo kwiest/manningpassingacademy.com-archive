@@ -7,15 +7,15 @@ Important Dates
 
 **Reigistration Begins** - October 1, 2014
 
-**Payment-in-Full for Pre-Registered Campers** - <%= balance_due_date.strftime "%M %-d, %Y" %>
+**Payment-in-Full for Pre-Registered Campers** - <%= balance_due_date.strftime "%B %-d, %Y" %>
 ($100 late fee thereafter)
 
-**Drop From Roster, No Refunds** - <%= drop_from_roster_date.strftime "%M %-d, %Y" %>
+**Drop From Roster, No Refunds** - <%= drop_from_roster_date.strftime "%B %-d, %Y" %>
 
-**Camp Begins** - <%= start_date.strftime "%M %-d, %Y" %>
+**Camp Begins** - <%= start_date.strftime "%B %-d, %Y" %>
 
-**Camp Ends** - <%= end_date.strftime "%M %-d, %Y" %>
+**Camp Ends** - <%= end_date.strftime "%B %-d, %Y" %>
 
-**Refunds Processed** - <%= refund_date.strftime "%M %-d, %Y" %>
+**Refunds Processed** - <%= refund_date.strftime "%B %-d, %Y" %>
 
 <%= image_tag 'important-dates.jpg', class: 'img-responsive img-thumbnail' %>
