@@ -57,11 +57,11 @@ helpers do
   end
 
   def start_date
-    Date.parse '2016-06-21'
+    Date.parse '2016-06-23'
   end
 
   def end_date
-    Date.parse '2016-06-23'
+    Date.parse '2016-06-26'
   end
 
   def balance_due_date
