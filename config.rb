@@ -77,11 +77,11 @@ helpers do
   end
 
   def online_registration_link
-    'https://campregistrationsystems.com/manning-passing-academy/2015-manning-passing-academy'
+    'https://campregistrationsystems.com/manning-passing-academy/2016-manning-passing-academy'
   end
 
   def confirmation_link
-    'https://campregistrationsystems.com/manning-passing-academy/2015-manning-passing-academy/confirmation'
+    'https://campregistrationsystems.com/manning-passing-academy/2016-manning-passing-academy/confirmation'
   end
 end
 
