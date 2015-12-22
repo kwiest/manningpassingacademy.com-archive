@@ -5,6 +5,7 @@ title: "Online Store"
 Official MPA Store
 ==================
 
+<!--
 <a href="https://mkt.com/manning-passing-academy" 
   class="sq-embed-menu" 
   data-menu-item-images="large" 
@@ -15,3 +16,7 @@ Official MPA Store
 </a> 
 
 <script src="https://cdn.sq-api.com/market/embed.js" charset="utf-8"> </script>
+-->
+
+<h3><em>Closed until 2016.</em></h3>
+<h4>Happy Holidays from the MPA!</h4>
