@@ -14,7 +14,7 @@ title: "Official Home Page"
 
       <div class="carousel-inner">
         <!--
-        <div class="item active">
+        <div class="item">
           <% link_to online_registration_link do %>
             <%= image_tag 'carousel-registration-open.png', alt: 'Registration is now open!' %>
           <% end %>
@@ -45,7 +45,7 @@ title: "Official Home Page"
         </div>
         -->
 
-        <div class="item">
+        <div class="item active">
           <% link_to '/page/online-store/' do %>
             <%= image_tag 'carousel-online-store.png', alt: 'Online Store now open.' %>
           <% end %>
@@ -68,7 +68,9 @@ title: "Official Home Page"
     <h2>
       <%= "#{start_date.strftime('%A, %B %-d')} - #{end_date.strftime('%A, %B %-d, %Y')}".upcase %>
     </h2>
-    <h3 class="text-danger">Registration for the 2016 MPA is now closed.</h3>
+    <div class="bg-danger">
+      <h3 class="text-muted">Registration for the 2016 MPA is now closed.</h3>
+    </div>
     <!--
     <%= link_to 'Sign Up Now!', online_registration_link,
       class: 'btn btn-lg btn-danger' %>
