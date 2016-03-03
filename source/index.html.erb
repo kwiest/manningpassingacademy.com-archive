@@ -13,6 +13,7 @@ title: "Official Home Page"
       </ol>
 
       <div class="carousel-inner">
+        <!--
         <div class="item active">
           <% link_to online_registration_link do %>
             <%= image_tag 'carousel-registration-open.png', alt: 'Registration is now open!' %>
@@ -25,7 +26,6 @@ title: "Official Home Page"
           <% end %>
         </div>
 
-        <!--
         <div class="item">
           <% link_to '/documents/reminders.pdf' do %>
             <%= image_tag 'carousel-reminders.png', alt: '2015 MPA Reminders' %>
@@ -37,13 +37,13 @@ title: "Official Home Page"
             <%= image_tag 'carousel-2015-mpa.png', alt: '2015 MPA' %>
           <% end %>
         </div>
-        -->
 
         <div class="item">
           <% link_to 'http://parkerwaters.photoreflect.com/store/thumbpage.aspx?e=9618705' do %>
             <%= image_tag 'carousel-photos.png', alt: '2015 MPA Photos' %>
           <% end %>
         </div>
+        -->
 
         <div class="item">
           <% link_to '/page/online-store/' do %>
@@ -68,6 +68,7 @@ title: "Official Home Page"
     <h2>
       <%= "#{start_date.strftime('%A, %B %-d')} - #{end_date.strftime('%A, %B %-d, %Y')}".upcase %>
     </h2>
+    <h3 class="text-danger">Registration for the 2016 MPA is now closed.</h3>
     <!--
     <%= link_to 'Sign Up Now!', online_registration_link,
       class: 'btn btn-lg btn-danger' %>
