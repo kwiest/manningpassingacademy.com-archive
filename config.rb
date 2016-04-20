@@ -83,6 +83,10 @@ helpers do
   def confirmation_link
     'https://campregistrationsystems.com/manning-passing-academy/2016-manning-passing-academy/confirmation'
   end
+
+  def online_shuttle_link
+    'https://campregistrationsystems.com/manning-passing-academy/2016-mpa-shuttle'
+  end
 end
 
 set :css_dir, 'stylesheets'
