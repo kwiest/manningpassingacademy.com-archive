@@ -45,47 +45,47 @@ page "page/*", layout: :page
 # Methods defined in the helpers block are available in templates
 helpers do
   def year
-    2016
+    2017
   end
 
   def overnight_tuition
-    685
+    725
   end
 
   def day_tuition
-    485
+    525
   end
 
   def start_date
-    Date.parse '2016-06-23'
+    Date.parse '2017-06-22'
   end
 
   def end_date
-    Date.parse '2016-06-26'
+    Date.parse '2017-06-25'
   end
 
   def balance_due_date
-    Date.parse '2016-05-01'
+    Date.parse '2017-05-01'
   end
 
   def drop_from_roster_date
-    Date.parse '2016-06-01'
+    Date.parse '2017-06-01'
   end
 
   def refund_date
-    Date.parse '2016-08-01'
+    Date.parse '2017-08-01'
   end
 
   def online_registration_link
-    'https://campregistrationsystems.com/manning-passing-academy/2016-manning-passing-academy'
+    'https://campregistrationsystems.com/manning-passing-academy/2017-manning-passing-academy'
   end
 
   def confirmation_link
-    'https://campregistrationsystems.com/manning-passing-academy/2016-manning-passing-academy/confirmation'
+    'https://campregistrationsystems.com/manning-passing-academy/2017-manning-passing-academy/confirmation'
   end
 
   def online_shuttle_link
-    'https://campregistrationsystems.com/manning-passing-academy/2016-mpa-shuttle'
+    'https://campregistrationsystems.com/manning-passing-academy/2017-mpa-shuttle'
   end
 end
 
