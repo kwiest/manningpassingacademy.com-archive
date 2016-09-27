@@ -13,8 +13,7 @@ title: "Official Home Page"
       </ol>
 
       <div class="carousel-inner">
-        <!--
-        <div class="item">
+        <div class="item active">
           <% link_to online_registration_link do %>
             <%= image_tag 'carousel-registration-open.png', alt: 'Registration is now open!' %>
           <% end %>
@@ -27,14 +26,21 @@ title: "Official Home Page"
         </div>
 
         <div class="item">
-          <% link_to '/documents/reminders.pdf' do %>
-            <%= image_tag 'carousel-reminders.png', alt: '2015 MPA Reminders' %>
+          <% link_to '/page/online-store/' do %>
+            <%= image_tag 'carousel-online-store.png', alt: 'Online Store now open.' %>
           <% end %>
         </div>
 
         <div class="item">
-          <% link_to '/page/purpose/' do %>
-            <%= image_tag 'carousel-2015-mpa.png', alt: '2015 MPA' %>
+          <% link_to 'http://parkerwaters.photoreflect.com/store/thumbpage.aspx?e=9853287' do %>
+            <%= image_tag 'carousel-photos.png', alt: 'MPA Photos' %>
+          <% end %>
+        </div>
+
+        <!--
+        <div class="item">
+          <% link_to '/documents/reminders.pdf' do %>
+            <%= image_tag 'carousel-reminders.png', alt: '2015 MPA Reminders' %>
           <% end %>
         </div>
 
@@ -44,18 +50,6 @@ title: "Official Home Page"
           <% end %>
         </div>
         -->
-
-        <div class="item active">
-          <% link_to 'http://parkerwaters.photoreflect.com/store/thumbpage.aspx?e=9853287' do %>
-            <%= image_tag 'carousel-photos.png', alt: 'MPA Photos' %>
-          <% end %>
-        </div>
-
-        <div class="item">
-          <% link_to '/page/online-store/' do %>
-            <%= image_tag 'carousel-online-store.png', alt: 'Online Store now open.' %>
-          <% end %>
-        </div>
       </div>
     </div>
 
@@ -71,7 +65,7 @@ title: "Official Home Page"
 <div id="secondary-header">
   <div class="container">
     <h1>MANNING PASSING ACADEMY</h1>
-    <h2>Registration for the 2017 MPA will open in October.</h2>
+    <h2>Registration for the 2017 MPA is now open!</h2>
     <h2>
       <%= "#{start_date.strftime('%A, %B %-d')} - #{end_date.strftime('%A, %B %-d, %Y')}".upcase %>
     </h2>
@@ -79,9 +73,9 @@ title: "Official Home Page"
     <div class="bg-danger">
       <h3 class="text-muted">Registration for the 2017 MPA will open in October.</h3>
     </div>
+    -->
     <%= link_to 'Sign Up Now!', online_registration_link,
       class: 'btn btn-lg btn-danger' %>
-    -->
   </div>
 </div>
 
@@ -115,5 +109,3 @@ title: "Official Home Page"
     </div>
   </div>
 </div>
-
-<script data-leadbox="144134d73f72a2:1015970cdf46dc" data-url="https://smshooks.leadpages.co/leadbox/144134d73f72a2%3A1015970cdf46dc/5706803308396544/" data-config="%7B%22type%22%3A%22time%22%2C%22settings%22%3A%7B%22seconds%22%3A2%2C%22days%22%3A7%2C%22views%22%3A0%7D%7D" type="text/javascript" src="https://smshooks.leadpages.co/leadbox-1472587837.js"></script>
