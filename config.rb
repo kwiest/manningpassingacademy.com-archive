@@ -12,6 +12,7 @@
 ###
 
 page "page/*", layout: :page
+page "dvd", layout: false
 
 # Per-page layout changes:
 #
