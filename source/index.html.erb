@@ -14,6 +14,11 @@ title: "Official Home Page"
 
       <div class="carousel-inner">
         <div class="item active">
+          <%= image_tag "carousel-registration-closed.png", alt: "Registratin is closed" %>
+        </div>
+
+        <!--
+        <div class="item">
           <% link_to online_registration_link do %>
             <%= image_tag 'carousel-registration-open.png', alt: 'Registration is now open!' %>
           <% end %>
@@ -24,6 +29,7 @@ title: "Official Home Page"
             <%= image_tag 'carousel-football.png', alt: 'Free Spalding TF-SB1 Football.' %>
           <% end %>
         </div>
+        -->
 
         <div class="item">
           <% link_to '/page/online-store/' do %>
@@ -74,8 +80,11 @@ title: "Official Home Page"
       <h3 class="text-muted">Registration for the 2017 MPA will open in October.</h3>
     </div>
     -->
+    <h3>Registration for the 2017 MPA is now closed</h3>
+    <!--
     <%= link_to 'Sign Up Now!', online_registration_link,
       class: 'btn btn-lg btn-danger' %>
+    -->
   </div>
 </div>
 
