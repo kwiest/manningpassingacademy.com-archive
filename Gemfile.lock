@@ -109,7 +109,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  dotenv
   middleman (~> 4.2.1)
   middleman-livereload (~> 3.4.3)
 
