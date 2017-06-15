@@ -14,14 +14,21 @@ title: "Official Home Page"
 
       <div class="carousel-inner">
         <div class="item active">
-          <%= image_tag "carousel-registration-closed.png", alt: "Registratin is closed" %>
+          <% link_to "https://s3.amazonaws.com/manning-passing-academy/2017PocketBook.pdf" do %>
+            <%= image_tag 'carousel-reminders.png', alt: 'Pre-Camp Reminders' %>
+          <% end %>
         </div>
 
-        <!--
         <div class="item">
           <% link_to online_registration_link do %>
             <%= image_tag 'carousel-registration-open.png', alt: 'Registration is now open!' %>
           <% end %>
+        </div>
+
+        <!--
+
+        <div class="item">
+          <%= image_tag "carousel-registration-closed.png", alt: "Registratin is closed" %>
         </div>
 
         <div class="item">
@@ -29,7 +36,6 @@ title: "Official Home Page"
             <%= image_tag 'carousel-football.png', alt: 'Free Spalding TF-SB1 Football.' %>
           <% end %>
         </div>
-        -->
 
         <div class="item">
           <% link_to '/page/online-store/' do %>
@@ -40,19 +46,6 @@ title: "Official Home Page"
         <div class="item">
           <% link_to 'http://parkerwaters.photoreflect.com/store/thumbpage.aspx?e=9853287' do %>
             <%= image_tag 'carousel-photos.png', alt: 'MPA Photos' %>
-          <% end %>
-        </div>
-
-        <!--
-        <div class="item">
-          <% link_to '/documents/reminders.pdf' do %>
-            <%= image_tag 'carousel-reminders.png', alt: '2015 MPA Reminders' %>
-          <% end %>
-        </div>
-
-        <div class="item">
-          <% link_to 'https://s3.amazonaws.com/manning-passing-academy/2016-MPA-Pocket-Book.pdf' do %>
-            <%= image_tag 'carousel-reminders.png', alt: 'Pre-Camp Reminders' %>
           <% end %>
         </div>
         -->
