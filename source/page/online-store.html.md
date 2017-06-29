@@ -5,10 +5,6 @@ title: "Online Store"
 Official MPA Store
 ==================
 
-The Camp Store Will Re-Open After Camp
---------------------------------------
-
-<!--
 <a href="https://mkt.com/manning-passing-academy"
   class="sq-embed-menu"
   data-menu-item-images="large"
@@ -19,4 +15,3 @@ The Camp Store Will Re-Open After Camp
 </a>
 
 <script src="https://cdn.sq-api.com/market/embed.js" charset="utf-8"> </script>
--->
