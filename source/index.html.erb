@@ -68,16 +68,15 @@ title: "Official Home Page"
   <div class="container">
     <h1>MANNING PASSING ACADEMY</h1>
     <h2>Nicholls State University - Thibodaux, LA</h2>
-    <h2>
-      <%= "#{start_date.strftime('%A, %B %-d')} - #{end_date.strftime('%A, %B %-d, %Y')}".upcase %>
-    </h2>
-    <h3>Registration for the 2017 MPA is now closed</h3>
+    <div class="bg-danger">
+      <h3 class="text-muted">Registration for the 2018 MPA will open in October.</h3>
+    </div>
 
     <!--
 
-    <div class="bg-danger">
-      <h3 class="text-muted">Registration for the 2017 MPA will open in October.</h3>
-    </div>
+    <h2>
+      <%= "#{start_date.strftime('%A, %B %-d')} - #{end_date.strftime('%A, %B %-d, %Y')}".upcase %>
+    </h2>
 
     <%= link_to 'Sign Up Now!', online_registration_link,
       class: 'btn btn-lg btn-danger' %>
