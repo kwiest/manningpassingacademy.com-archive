@@ -46,7 +46,7 @@ page "dvd", layout: false
 # Methods defined in the helpers block are available in templates
 helpers do
   def year
-    2017
+    2018
   end
 
   def overnight_tuition
@@ -58,35 +58,35 @@ helpers do
   end
 
   def start_date
-    Date.parse '2017-06-22'
+    Date.parse "2018-06-21"
   end
 
   def end_date
-    Date.parse '2017-06-25'
+    Date.parse "2018-06-24"
   end
 
   def balance_due_date
-    Date.parse '2017-05-01'
+    Date.parse "2018-05-01"
   end
 
   def drop_from_roster_date
-    Date.parse '2017-06-01'
+    Date.parse "2018-06-01"
   end
 
   def refund_date
-    Date.parse '2017-08-01'
+    Date.parse "2018-08-01"
   end
 
   def online_registration_link
-    'https://campregistrationsystems.com/manning-passing-academy/2017-manning-passing-academy'
+    "https://campregistrationsystems.com/manning-passing-academy/2018-manning-passing-academy"
   end
 
   def confirmation_link
-    'https://campregistrationsystems.com/manning-passing-academy/2017-manning-passing-academy/confirmation'
+    "https://campregistrationsystems.com/manning-passing-academy/2018-manning-passing-academy/confirmation"
   end
 
   def online_shuttle_link
-    'https://campregistrationsystems.com/manning-passing-academy/2017-mpa-shuttle'
+    "https://campregistrationsystems.com/manning-passing-academy/2018-mpa-shuttle"
   end
 end
 
