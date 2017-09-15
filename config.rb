@@ -50,11 +50,11 @@ helpers do
   end
 
   def overnight_tuition
-    725
+    750
   end
 
   def day_tuition
-    525
+    550
   end
 
   def start_date
