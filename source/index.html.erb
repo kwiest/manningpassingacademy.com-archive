@@ -8,14 +8,25 @@ title: "Official Home Page"
       <ol class="carousel-indicators">
         <li data-target="#mpa-carousel" data-slide-to="0" class="active"></li>
         <li data-target="#mpa-carousel" data-slide-to="1"></li>
-        <!--
         <li data-target="#mpa-carousel" data-slide-to="2"></li>
         <li data-target="#mpa-carousel" data-slide-to="3"></li>
-        -->
       </ol>
 
       <div class="carousel-inner">
+
         <div class="item active">
+          <% link_to online_registration_link do %>
+            <%= image_tag 'carousel-registration-open.png', alt: 'Registration is now open!' %>
+          <% end %>
+        </div>
+
+        <div class="item">
+          <% link_to online_registration_link do %>
+            <%= image_tag 'carousel-football.png', alt: 'Free Spalding TF-SB1 Football.' %>
+          <% end %>
+        </div>
+
+        <div class="item">
           <% link_to "https://parkerwaters.photoreflect.com/store/thumbpage.aspx?e=10070071" do %>
             <%= image_tag 'carousel-photos.png', alt: 'MPA Photos' %>
           <% end %>
@@ -39,18 +50,6 @@ title: "Official Home Page"
           <%= image_tag "carousel-registration-closed.png", alt: "Registration is closed" %>
         </div>
 
-        <div class="item">
-          <% link_to online_registration_link do %>
-            <%= image_tag 'carousel-registration-open.png', alt: 'Registration is now open!' %>
-          <% end %>
-        </div>
-
-        <div class="item">
-          <% link_to online_registration_link do %>
-            <%= image_tag 'carousel-football.png', alt: 'Free Spalding TF-SB1 Football.' %>
-          <% end %>
-        </div>
-
         -->
       </div>
     </div>
@@ -72,14 +71,14 @@ title: "Official Home Page"
       <%= "#{start_date.strftime('%A, %B %-d')} - #{end_date.strftime('%A, %B %-d, %Y')}".upcase %>
     </h2>
 
-    <div class="bg-danger">
-      <h3 class="text-muted">Registration for the 2018 MPA will open in October.</h3>
-    </div>
+    <%= link_to 'Sign Up Now!', online_registration_link,
+      class: 'btn btn-lg btn-danger' %>
 
     <!--
 
-    <%= link_to 'Sign Up Now!', online_registration_link,
-      class: 'btn btn-lg btn-danger' %>
+    <div class="bg-danger">
+      <h3 class="text-muted">Registration for the 2018 MPA will open in October.</h3>
+    </div>
 
     -->
   </div>
