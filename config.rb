@@ -11,8 +11,8 @@
 # Page options, layouts, aliases and proxies
 ###
 
-page "page/*", layout: :page
-page "dvd", layout: false
+page 'page/*', layout: :page
+page 'dvd', layout: false
 
 # Per-page layout changes:
 #
@@ -58,43 +58,51 @@ helpers do
   end
 
   def start_date
-    Date.parse "2018-06-21"
+    Date.parse '2018-06-21'
   end
 
   def end_date
-    Date.parse "2018-06-24"
+    Date.parse '2018-06-24'
   end
 
   def balance_due_date
-    Date.parse "2018-05-01"
+    Date.parse '2018-05-01'
   end
 
   def drop_from_roster_date
-    Date.parse "2018-06-01"
+    Date.parse '2018-06-01'
   end
 
   def refund_date
-    Date.parse "2018-08-01"
+    Date.parse '2018-08-01'
   end
 
   def online_registration_link
-    "https://campregistrationsystems.com/manning-passing-academy/2018-manning-passing-academy"
+    'https://campregistrationsystems.com/manning-passing-academy/2018-manning-passing-academy'
   end
 
   def confirmation_link
-    "https://campregistrationsystems.com/manning-passing-academy/2018-manning-passing-academy/confirmation"
+    'https://campregistrationsystems.com/manning-passing-academy/2018-manning-passing-academy/confirmation'
   end
 
   def online_shuttle_link
-    "https://campregistrationsystems.com/manning-passing-academy/2018-mpa-shuttle"
+    'https://campregistrationsystems.com/manning-passing-academy/2018-mpa-shuttle'
   end
 
   def womens_clinic_start_date
-    Date.parse "2018-06-25"
+    Date.parse '2018-06-25'
   end
 
   def womens_clinic_end_date
-    Date.parse "2018-06-26"
+    Date.parse '2018-06-26'
+  end
+
+  def womens_clinic_online_registration_link
+    'https://campregistrationsystems.com/manning-passing-academy/2018-women-s-clinic-and-camp'
+  end
+
+  def womens_clinic_confirmation_link
+    'https://campregistrationsystems.com/manning-passing-academy/2018-women-s-clinic-and-camp/confirmation'
   end
 end
 
