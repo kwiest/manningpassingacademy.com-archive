@@ -62,7 +62,7 @@ helpers do
   end
 
   def end_date
-    Date.parse '2019-06-27'
+    Date.parse '2019-06-30'
   end
 
   def balance_due_date
