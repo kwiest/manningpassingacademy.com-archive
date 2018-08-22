@@ -1,0 +1,20 @@
+.sponsors {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+
+  .sponsor {
+    flex: 1 1 auto;
+    text-align: center;
+    padding: 8px;
+    width: 200px;
+  }
+}
+
+#title-sponsors {
+  .sponsor {
+    width: 260px !important;
+  }
+}
