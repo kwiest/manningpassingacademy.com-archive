@@ -132,4 +132,16 @@ configure :build do
 
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
+
+  activate :cdn do |provider|
+    provider.cloudflare = {
+      client_api_key: ENV['CLOUDFLARE_CLIENT_API_KEY'],
+      email: ENV['CLOUDFLARE_EMAIL'],
+      zone: ENV['CLOUDFLARE_ZONE_ID'],
+      base_urls: [
+        'https://manningpassingacademy.com'
+      ]
+    }
+    provider.after_build = false
+  end
 end
