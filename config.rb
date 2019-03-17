@@ -89,11 +89,7 @@ helpers do
     'https://campregistrationsystems.com/manning-passing-academy/2019-mpa-shuttle'
   end
 
-  def womens_clinic_start_date
-    Date.parse '2019-06-26'
-  end
-
-  def womens_clinic_end_date
+  def womens_clinic_date
     Date.parse '2019-06-26'
   end
 
