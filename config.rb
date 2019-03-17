@@ -94,11 +94,11 @@ helpers do
   end
 
   def womens_clinic_online_registration_link
-    'https://campregistrationsystems.com/manning-passing-academy/2019-women-s-clinic-and-camp'
+    "https://campregistrationsystems.com/manning-passing-academy/2019-ladies-clinic"
   end
 
   def womens_clinic_confirmation_link
-    'https://campregistrationsystems.com/manning-passing-academy/2019-women-s-clinic-and-camp/confirmation'
+    "https://campregistrationsystems.com/manning-passing-academy/2019-ladies-clinic/confirmation"
   end
 end
 
