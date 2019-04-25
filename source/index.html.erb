@@ -80,12 +80,18 @@ title: "Official Home Page"
     <%= link_to 'Sign Up Now!', online_registration_link,
       class: 'btn btn-lg btn-danger' %>
 
+    <div id="social-links">
+      <%= partial 'partials/twitter_link' %>
+      <%= partial 'partials/instagram_link' %>
+      <%= partial 'partials/facebook_link' %>
+    </div>
+
     <hr />
 
-    <h3>2019 Ladies' Clinic</h3>
-    <h4>
+    <h2>2019 Ladies' Clinic</h2>
+    <h3>
       <%= "#{womens_clinic_date.strftime('%A, %B %-d, %Y')}" %>
-    </h4>
+    </h3>
     <a href="/page/womens-clinic" class="btn btn-default">Learn More</a>
 
     <!--
