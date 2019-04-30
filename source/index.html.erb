@@ -14,6 +14,12 @@ title: "Official Home Page"
 
       <div class="carousel-inner">
         <div class="item active">
+          <% link_to 'documents/brochure.pdf' do %>
+            <%= image_tag 'carousel-2019-brochure.png', alt: '2019 Brochure and Counselors' %>
+          <% end %>
+        </div>
+
+        <div class="item">
           <% link_to online_registration_link do %>
             <%= image_tag 'carousel-registration-open.png', alt: 'Registration is now open!' %>
           <% end %>
