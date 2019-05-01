@@ -66,7 +66,7 @@ helpers do
   end
 
   def balance_due_date
-    Date.parse '2019-05-01'
+    Date.parse '2019-06-01'
   end
 
   def drop_from_roster_date
