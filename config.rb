@@ -70,7 +70,7 @@ helpers do
   end
 
   def drop_from_roster_date
-    Date.parse '2019-06-01'
+    Date.parse '2019-06-15'
   end
 
   def refund_date
