@@ -58,47 +58,35 @@ helpers do
   end
 
   def start_date
-    Date.parse '2019-06-27'
+    Date.parse '2020-06-25'
   end
 
   def end_date
-    Date.parse '2019-06-30'
+    Date.parse '2020-06-28'
   end
 
   def balance_due_date
-    Date.parse '2019-06-01'
+    Date.parse '2020-06-01'
   end
 
   def drop_from_roster_date
-    Date.parse '2019-06-15'
+    Date.parse '2020-06-15'
   end
 
   def refund_date
-    Date.parse '2019-08-01'
+    Date.parse '2020-08-01'
   end
 
   def online_registration_link
-    'https://campregistrationsystems.com/manning-passing-academy/2019-manning-passing-academy'
+    'https://campregistrationsystems.com/manning-passing-academy/2020-manning-passing-academy'
   end
 
   def confirmation_link
-    'https://campregistrationsystems.com/manning-passing-academy/2019-manning-passing-academy/confirmation'
+    'https://campregistrationsystems.com/manning-passing-academy/2020-manning-passing-academy/confirmation'
   end
 
   def online_shuttle_link
-    'https://campregistrationsystems.com/manning-passing-academy/2019-mpa-shuttle'
-  end
-
-  def womens_clinic_date
-    Date.parse '2019-06-26'
-  end
-
-  def womens_clinic_online_registration_link
-    "https://campregistrationsystems.com/manning-passing-academy/2019-ladies-clinic"
-  end
-
-  def womens_clinic_confirmation_link
-    "https://campregistrationsystems.com/manning-passing-academy/2019-ladies-clinic/confirmation"
+    'https://campregistrationsystems.com/manning-passing-academy/2020-mpa-shuttle'
   end
 end
 

@@ -8,8 +8,6 @@ title: "Official Home Page"
       <ol class="carousel-indicators">
         <li data-target="#mpa-carousel" data-slide-to="0" class="active"></li>
         <li data-target="#mpa-carousel" data-slide-to="1"></li>
-        <li data-target="#mpa-carousel" data-slide-to="2"></li>
-        <li data-target="#mpa-carousel" data-slide-to="3"></li>
       </ol>
 
       <div class="carousel-inner">
@@ -20,48 +18,11 @@ title: "Official Home Page"
         </div>
 
         <div class="item">
-          <% link_to online_registration_link do %>
-            <%= image_tag 'carousel-registration-open.png', alt: 'Registration is now open!' %>
-          <% end %>
-        </div>
-
-        <div class="item">
-          <% link_to online_registration_link do %>
-            <%= image_tag 'carousel-wilson-football.png', alt: 'Free Wilson Football' %>
-          <% end %>
-        </div>
-
-        <div class="item">
-          <% link_to 'https://youtu.be/_ZsbBcv1_Bw' do %>
-            <%= image_tag 'carousel-2018-video.png', alt: '2018 MPA Camper Video' %>
-          <% end %>
-        </div>
-
-        <div class="item">
-          <% link_to "https://parkerwaters.photoreflect.com/store/thumbpage.aspx?e=10265372&__s=XXXXXXXX" do %>
-            <%= image_tag "carousel-photos.png", alt: "Camp Photos" %>
-          <% end %>
-        </div>
-
-        <div class="item">
           <% link_to '//store.manningpassingacademy.com' do %>
             <%= image_tag 'carousel-online-store.png', alt: 'Online Store now open.' %>
           <% end %>
         </div>
 
-        <!--
-
-        <div class="item">
-          <% link_to 'documents/brochure.pdf' do %>
-            <%= image_tag 'carousel-2019-brochure.png', alt: '2019 Brochure and Counselors' %>
-          <% end %>
-        </div>
-
-        <div class="item">
-          <%= image_tag "carousel-registration-closed.png", alt: "Registration is closed" %>
-        </div>
-
-        -->
       </div>
     </div>
 
@@ -83,8 +44,14 @@ title: "Official Home Page"
       <%= "#{start_date.strftime('%A, %B %-d')} - #{end_date.strftime('%A, %B %-d, %Y')}".upcase %>
     </h2>
 
+    <!--
     <%= link_to 'Sign Up Now!', online_registration_link,
       class: 'btn btn-lg btn-danger' %>
+    -->
+
+    <div class="bg-danger">
+      <h3 class="text-muted">Registration for the 2020 MPA will open on August 15.</h3>
+    </div>
 
     <div id="social-links">
       <%= partial 'partials/twitter_link' %>
@@ -94,25 +61,13 @@ title: "Official Home Page"
 
     <hr />
 
-    <h2>2019 Ladies' Clinic</h2>
-    <h3>
-      <%= "#{womens_clinic_date.strftime('%A, %B %-d, %Y')}" %>
-    </h3>
-    <a href="/page/womens-clinic" class="btn btn-default">Learn More</a>
-
-    <!--
-    <div class="bg-danger">
-      <h3 class="text-muted">Registration for the 2019 MPA will open soon.</h3>
-    </div>
-    -->
-
   </div>
 </div>
 
 <div id="home-description" class="container">
   <div class="row">
     <div class="col-md-4">
-      <h4>24th Anniversary</h4>
+      <h4>25th Anniversary</h4>
       <%= image_tag 'home-description-cooper-archie.png' %>
       <p>
         For over 20 years, the Manning Passing Academy has been helping players
