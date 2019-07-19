@@ -88,18 +88,6 @@ helpers do
   def online_shuttle_link
     'https://campregistrationsystems.com/manning-passing-academy/2020-mpa-shuttle'
   end
-
-  def womens_clinic_date
-    Date.parse '2019-06-26'
-  end
-
-  def womens_clinic_online_registration_link
-    "https://campregistrationsystems.com/manning-passing-academy/2019-ladies-clinic"
-  end
-
-  def womens_clinic_confirmation_link
-    "https://campregistrationsystems.com/manning-passing-academy/2019-ladies-clinic/confirmation"
-  end
 end
 
 set :css_dir, 'stylesheets'
