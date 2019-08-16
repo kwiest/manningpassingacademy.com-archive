@@ -8,6 +8,7 @@ title: "Official Home Page"
       <ol class="carousel-indicators">
         <li data-target="#mpa-carousel" data-slide-to="0" class="active"></li>
         <li data-target="#mpa-carousel" data-slide-to="1"></li>
+        <li data-target="#mpa-carousel" data-slide-to="2"></li>
       </ol>
 
       <div class="carousel-inner">
@@ -15,6 +16,12 @@ title: "Official Home Page"
         <div class="item active">
           <% link_to online_registration_link do %>
             <%= image_tag 'carousel-registration-open.png', alt: '2020 Registration Open' %>
+          <% end %>
+        </div>
+
+        <div class="item">
+          <% link_to 'https://www.youtube.com/watch?v=7ZGkf8abGxE' do %>
+            <%= image_tag 'carousel-2019-video.png', alt: '2019 Camper Video' %>
           <% end %>
         </div>
 
